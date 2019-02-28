@@ -55,10 +55,6 @@ form[name=cadastro] {
   color: red;
   display: none;
 }
-#respostaCNPJ {
-  color: red;
-  display: none;
-}
 input[type=submit] {
   width: 100%;
   background-color:#9ac011;

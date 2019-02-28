@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>KildeKode</title>
+    <link rel="stylesheet" href="css/cadastro.css">
+    <script type="text/javascript" src="js/cadastro.js"></script> 
+</head>
+<body>
+    <div id="formulario">
+        <form name="cadastro" method="post">
+          <div class="campo">
+            <input type="text" class="telefone" pattern=".{13,14}" maxlength="14" name="Telefone" placeholder="Telefone - (xx)xxxxx-xxxx" required>
+            <label id="respostaTel" class="animated shake"></label>
+          </div>
+          <div class="campo">
+            <input type="text" class="cpf" maxlength="11" name="CPF" placeholder="CPF - xxx.xxx.xxx-xx" required>
+            <label id="respostaCPF" class="animated shake">O CPF digitado não existe</label>
+          </div>
+          <div class="campo">
+            <input name="Cep" type="text" id="cep" maxlength="9" placeholder="CEP - xxxxx-xxx" required/>
+            <label id="respostaCep" class="animated shake"></label>
+          </div>
+          <div class="campo">
+            <input name="rua" type="text" id="rua"  placeholder="Rua" required/>
+          </div>
+          <div class="campo">
+            <input name="bairro" type="text" id="bairro" placeholder="Bairro" required/>
+          </div>
+          <div class="campo">
+            <input name="cidade" type="text" id="cidade" placeholder="Cidade" required/>
+          </div>
+          <div class="campo">  
+            <input name="uf" type="text" id="uf" placeholder="Estado" required/>
+          </div>
+          <br><input type="submit" value="Cadastrar">
+          <input type="submit" value="Login">
+        </form>
+      </div>
+</body>
+</html>

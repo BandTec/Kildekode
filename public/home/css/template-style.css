@@ -518,7 +518,7 @@ footer p, footer a:visited, footer a, footer a:hover {
   	float: none;
   }
   .social.right {
-  	float: right;
+	  position: unset;
   }
   #about-us article {
   	padding: 4em 2.5em;

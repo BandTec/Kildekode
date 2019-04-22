@@ -17,5 +17,13 @@
             <artifactId>oshi-core</artifactId>
             <version>3.13.0</version>
         </dependency>
+        
+        <!-- https://mvnrepository.com/artifact/com.github.oshi/oshi-json -->
+        <dependency>
+            <groupId>com.github.oshi</groupId>
+            <artifactId>oshi-json</artifactId>
+            <version>3.13.0</version>
+        </dependency>
+
     </dependencies>
 </project>

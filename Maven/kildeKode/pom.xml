@@ -17,20 +17,19 @@
             <artifactId>oshi-core</artifactId>
             <version>3.13.0</version>
         </dependency>
-<<<<<<< HEAD
+
         <!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
             <version>1.8.0-beta4</version>
-=======
+        </dependency>
         
         <!-- https://mvnrepository.com/artifact/com.github.oshi/oshi-json -->
         <dependency>
             <groupId>com.github.oshi</groupId>
             <artifactId>oshi-json</artifactId>
             <version>3.13.0</version>
->>>>>>> 69f4d5b8028ed2a180ff76f5db9fcdc1255e9437
         </dependency>
 
     </dependencies>

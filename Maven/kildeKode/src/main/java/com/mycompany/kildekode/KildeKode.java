@@ -63,56 +63,26 @@ public class KildeKode {//implements VirtualMemory
         oshi.SystemInfo si = new oshi.SystemInfo();
         HardwareAbstractionLayer hal = si.getHardware();
         hal.getComputerSystem();
-
-        //obj
-        GlobalMemory memory = hal.getMemory();
-        CentralProcessor processor = hal.getProcessor();
-       // HWDiskStore[] disk = hal.getDiskStores();
         
-
+        Processos proc = new Processos(si);
+        proc.getQuantidadeProcessos();
+        proc.getProcessos(10);
         
-        //memory
-        System.out.println("Memory: " + FormatUtil.formatBytes(memory.getAvailable()) + ""
-            + FormatUtil.formatBytes(memory.getTotal()));
-         //VirtualMemory vm = memory.getSwapTotal();
-            // System.out.println("Swap used: " + FormatUtil.formatBytes(vm.getSwapUsed()) + "/"
-            //  + FormatUtil.formatBytes(vm.getSwapTotal()));
-
+        Memoria mem = new Memoria(hal);
+        mem.getMemoria();
         
-        //processor
-             System.out.println(processor);
-        System.out.println(" " + processor.getPhysicalPackageCount() + " physical CPU package(s)");
-        System.out.println(" " + processor.getPhysicalProcessorCount() + " physical CPU core(s)");
-        System.out.println(" " + processor.getLogicalProcessorCount() + " logical CPU(s)");
-
-        System.out.println("Identifier: " + processor.getIdentifier());
-        System.out.println("ProcessorID: " + processor.getProcessorID());
+        Processador processador = new Processador(hal);
+        processador.getProcessador();
+        
+        Disco di = new Disco(hal);
+        di.getDiscos();
 
         
+
+        
+       
         
         
-        //disk
-        System.out.println("Disks:");
-        for (HWDiskStore disk : diskStores) {
-            boolean readwrite = disk.getReads() > 0 || disk.getWrites() > 0;
-            System.out.format(" %s: (model: %s - S/N: %s) size: %s, reads: %s (%s), writes: %s (%s), xfer: %s ms%n",
-                    disk.getName(), disk.getModel(), disk.getSerial(),
-                    disk.getSize() > 0 ? FormatUtil.formatBytesDecimal(disk.getSize()) : "?",
-                    readwrite ? disk.getReads() : "?", readwrite ? FormatUtil.formatBytes(disk.getReadBytes()) : "?",
-                    readwrite ? disk.getWrites() : "?", readwrite ? FormatUtil.formatBytes(disk.getWriteBytes()) : "?",
-                    readwrite ? disk.getTransferTime() : "?");
-            HWPartition[] partitions = disk.getPartitions();
-            if (partitions == null) {
-                // TODO Remove when all OS's implemented
-                continue;
-            }
-            for (HWPartition part : partitions) {
-                System.out.format(" |-- %s: %s (%s) Maj:Min=%d:%d, size: %s%s%n", part.getIdentification(),
-                        part.getName(), part.getType(), part.getMajor(), part.getMinor(),
-                        FormatUtil.formatBytesDecimal(part.getSize()),
-                        part.getMountPoint().isEmpty() ? "" : " @ " + part.getMountPoint());
-            }
-        }
     }
     
 }

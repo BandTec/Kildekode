@@ -35,10 +35,10 @@ public class Processos {
         }
     }
     
-    public void getQuantidadeProcessos(){
+    public int getQuantidadeProcessos(){
          processos = sistemaOperacional.getProcesses(0, OperatingSystem.ProcessSort.MEMORY);
          
-         System.out.println("Quantidade Processos: " + processos.length);
+         return processos.length;
     }
     
     

@@ -5,6 +5,8 @@
  */
 package com.mycompany.kildekode;
 
+import java.util.ArrayList;
+import java.util.List;
 import oshi.hardware.HWDiskStore;
 import oshi.hardware.HWPartition;
 import oshi.hardware.HardwareAbstractionLayer;
@@ -19,7 +21,6 @@ public class Disco {
     
     public Disco(HardwareAbstractionLayer hardware){
         discos = hardware.getDiskStores();
-        
     }
     
     public void getDiscos(){
@@ -43,5 +44,14 @@ public class Disco {
                         part.getMountPoint().isEmpty() ? "" : " @ " + part.getMountPoint());
             }
         }
+    }
+    
+    public long getProcentagemDisco(){
+        List<Long> tamanhos = new ArrayList<>();
+        for(HWDiskStore store: discos){
+            tamanhos.add(store.getSize());
+        }
+        
+        return tamanhos.get(1);
     }
 }

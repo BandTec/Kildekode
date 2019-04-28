@@ -5,6 +5,8 @@
  */
 package com.mycompany.kildekode;
 
+import java.util.ArrayList;
+import java.util.List;
 import oshi.hardware.CentralProcessor;
 import oshi.hardware.HardwareAbstractionLayer;
 
@@ -27,5 +29,11 @@ public class Processador {
 
         System.out.println("Identifier: " + processador.getIdentifier());
         System.out.println("ProcessorID: " + processador.getProcessorID());
+    }
+    
+    public double getCpuLoad(){
+        double porcentagen =  processador.getSystemCpuLoadBetweenTicks() * 100; 
+        
+        return porcentagen;
     }
 }

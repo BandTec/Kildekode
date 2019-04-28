@@ -15,6 +15,7 @@ import oshi.util.FormatUtil;
  */
 public class Memoria {
      GlobalMemory memoria;
+     double porcentagem;
      
      public Memoria(HardwareAbstractionLayer h){
          memoria = h.getMemory();
@@ -24,5 +25,20 @@ public class Memoria {
          
          System.out.println("Memoria Disponivel: " + FormatUtil.formatBytes(memoria.getAvailable()) + " Memoria Total: "
             + FormatUtil.formatBytes(memoria.getTotal()));
+     }
+     
+     public double getMemoriaLivre(){
+         
+         double divisao = (double)memoria.getAvailable() / (double)memoria.getTotal();
+         
+         porcentagem = (divisao * 100);
+         
+         return porcentagem;
+     }
+     
+     public double getMemoriaUsada(){
+         double usada = 100 - getMemoriaLivre();
+         
+         return usada;
      }
 }

@@ -62,26 +62,28 @@ public class KildeKode {//implements VirtualMemory
         //oshi
         oshi.SystemInfo si = new oshi.SystemInfo();
         HardwareAbstractionLayer hal = si.getHardware();
+        double cpuTicks;
         hal.getComputerSystem();
         
         Processos proc = new Processos(si);
-        proc.getQuantidadeProcessos();
-        proc.getProcessos(10);
-        
         Memoria mem = new Memoria(hal);
-        mem.getMemoria();
-        
         Processador processador = new Processador(hal);
+        Disco di = new Disco(hal);
+        
+        Alerta alerta = new Alerta(proc, mem, processador, di);
+        
+        alerta.iniciarAlertas();
+        
+        System.out.println(proc.getQuantidadeProcessos());
+        proc.getProcessos(10);
+       
+        mem.getMemoria();
+        System.out.format("%.2f\n" ,mem.getMemoriaLivre());
+        System.out.format("%.2f\n" ,mem.getMemoriaUsada());
+         
         processador.getProcessador();
         
-        Disco di = new Disco(hal);
         di.getDiscos();
-
-        
-
-        
-       
-        
         
     }
     

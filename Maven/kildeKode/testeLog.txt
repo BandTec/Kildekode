@@ -1,0 +1,26 @@
+mai 06, 2019 8:07:18 PM com.mycompany.kildekode.testeLog main
+CONFIGURAÇÃO: Configuracao concluida
+mai 06, 2019 8:07:18 PM com.mycompany.kildekode.testeLog main
+INFORMAÇÕES: Iniciando: testeLog
+mai 06, 2019 8:07:18 PM com.mycompany.kildekode.testeLog main
+ADVERTÊNCIA: Ta dando ruim
+mai 06, 2019 8:09:26 PM com.mycompany.kildekode.testeLog main
+CONFIGURAÇÃO: Configuracao concluida
+mai 06, 2019 8:09:26 PM com.mycompany.kildekode.testeLog main
+INFORMAÇÕES: Iniciando: testeLog
+mai 06, 2019 8:09:26 PM com.mycompany.kildekode.testeLog main
+ADVERTÊNCIA: Ta dando ruim
+mai 06, 2019 8:11:07 PM com.mycompany.kildekode.testeLog main
+CONFIGURAÃ‡ÃƒO: Configuracao concluida
+mai 06, 2019 8:11:07 PM com.mycompany.kildekode.testeLog main
+INFORMAÃ‡Ã•ES: Iniciando: testeLog
+mai 06, 2019 8:11:07 PM com.mycompany.kildekode.testeLog main
+ADVERTÃŠNCIA: Ta dando ruim
+mai 06, 2019 8:11:54 PM com.mycompany.kildekode.testeLog main
+CONFIGURAÃ‡ÃƒO: Configuracao concluida
+mai 06, 2019 8:11:54 PM com.mycompany.kildekode.testeLog main
+INFORMAÃ‡Ã•ES: Iniciando: testeLog
+mai 06, 2019 8:11:54 PM com.mycompany.kildekode.testeLog main
+ADVERTÃŠNCIA: Ta dando ruim
+mai 06, 2019 8:11:54 PM com.mycompany.kildekode.testeLog main
+ADVERTÃŠNCIA: Agora ta dando bom

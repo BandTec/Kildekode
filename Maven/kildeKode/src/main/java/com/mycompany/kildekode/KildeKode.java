@@ -3,7 +3,6 @@ package com.mycompany.kildekode;
 
 import java.awt.Component;
 import oshi.hardware.HardwareAbstractionLayer;
-//import oshi.hardware.VirtualMemory;
 
 /**
 
@@ -11,7 +10,6 @@ import oshi.hardware.HardwareAbstractionLayer;
  *
  * @author lucas
  */
-import org.slf4j.Logger;
 public class KildeKode {//implements VirtualMemory
                         
 
@@ -23,6 +21,7 @@ public class KildeKode {//implements VirtualMemory
         HardwareAbstractionLayer hal = si.getHardware();
         double cpuTicks;
         hal.getComputerSystem();
+        
         
         Processos proc = new Processos(si);
         Memoria mem = new Memoria(hal);

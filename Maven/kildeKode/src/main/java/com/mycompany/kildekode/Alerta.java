@@ -41,7 +41,7 @@ public class Alerta {
 
           @Override
           public void run() {
-              if(mem.getMemoriaLivre()> 70){
+              if(mem.getMemoriaUsada()> 70){
                   System.out.println("");
                   JOptionPane.showMessageDialog(null, "Muita memoria sendo usada");
               }

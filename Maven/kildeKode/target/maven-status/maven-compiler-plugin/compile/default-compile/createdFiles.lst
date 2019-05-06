@@ -1,9 +1,11 @@
-<<<<<<< HEAD
-com\mycompany\kildekode\KildeKode.class
+com\mycompany\kildekode\Alerta$1.class
+com\mycompany\kildekode\Alerta$2.class
 com\mycompany\kildekode\NewJPanel.class
+com\mycompany\kildekode\Processador.class
+com\mycompany\kildekode\Alerta.class
+com\mycompany\kildekode\Processos.class
+com\mycompany\kildekode\Disco.class
+com\mycompany\kildekode\Alerta$3.class
 com\mycompany\kildekode\VirtualMemory.class
-=======
-com\mycompany\kildekode\KildeKode$1.class
 com\mycompany\kildekode\KildeKode.class
-com\mycompany\kildekode\NewJPanel.class
->>>>>>> 69f4d5b8028ed2a180ff76f5db9fcdc1255e9437
+com\mycompany\kildekode\Memoria.class

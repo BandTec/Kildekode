@@ -5,6 +5,7 @@
  */
 package com.mycompany.kildekode;
 
+import java.io.IOException;
 import oshi.hardware.HardwareAbstractionLayer;
 
 /**
@@ -24,6 +25,7 @@ public class TelaKildeKode extends javax.swing.JFrame {
     private static Processos proc = new Processos(si);
     private static Memoria mem = new Memoria(hal);
     private static Disco di = new Disco(hal);
+    private static Jdbc banco = new Jdbc();
     
     public TelaKildeKode() {
         initComponents();
@@ -90,7 +92,7 @@ public class TelaKildeKode extends javax.swing.JFrame {
     /**
      * @param args the command line arguments
      */
-    public static void main(String args[]) {
+    public static void main(String args[]) throws IOException {
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
         /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
@@ -127,7 +129,7 @@ public class TelaKildeKode extends javax.swing.JFrame {
             }
         });
         
-        
+        banco.inserirDados(processador.getCpuLoad(), mem.getMemoriaUsada(), "Processo", di.getTamanhoDisco(),0);
     }
     
     public static void atualizaTabela(){

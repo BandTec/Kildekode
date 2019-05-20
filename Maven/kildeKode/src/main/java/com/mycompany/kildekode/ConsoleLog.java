@@ -7,9 +7,8 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.Vector;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+import java.util.ArrayList;
+import java.util.List;
 
 public class ConsoleLog {
 
@@ -25,10 +24,10 @@ public class ConsoleLog {
 
     private void escreverLog(String erros) throws IOException {
         try {
-            arquivo = new File("Excepitions.log");
+            arquivo = new File("Log.txt");
             fileReader = new FileReader(arquivo);
             bufferedReader = new BufferedReader(fileReader);
-            Vector texto = new Vector();
+            List<String> texto = new ArrayList();
             while (bufferedReader.ready()) {
                 texto.add(bufferedReader.readLine());
             }
@@ -44,15 +43,14 @@ public class ConsoleLog {
             bufferedWriter.close();
         } catch (FileNotFoundException ex) {
 
+            try {
+                arquivo.createNewFile();
+                escreverLog(erros);
+            } catch (IOException ex1) {
+                System.exit(0);
+
+            }
         }
 
-        try {
-            arquivo.createNewFile();
-            escreverLog(erros);
-        } catch (IOException ex1) {
-            System.exit(0);
-
-        }
     }
 }
-

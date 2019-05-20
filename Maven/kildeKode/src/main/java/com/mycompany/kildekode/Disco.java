@@ -46,12 +46,14 @@ public class Disco {
         }
     }
     
-    public long getProcentagemDisco(){
+    public double getTamanhoDisco(){
         List<Long> tamanhos = new ArrayList<>();
         for(HWDiskStore store: discos){
             tamanhos.add(store.getSize());
+            
         }
         
-        return tamanhos.get(1);
+        double tamanho = tamanhos.get(0) / 1000000000;
+        return tamanho;
     }
 }

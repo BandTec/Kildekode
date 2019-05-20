@@ -13,8 +13,6 @@ import oshi.hardware.HardwareAbstractionLayer;
 public class KildeKode {//implements VirtualMemory
                         
 
-    private static Component JScrollPane;
-
     public static void main(String[] args) {
         //oshi
         oshi.SystemInfo si = new oshi.SystemInfo();

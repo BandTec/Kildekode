@@ -1,0 +1,30 @@
+DROP TABLE IF EXISTS users CASCADE;
+CREATE TABLE users
+(
+
+  id serial,
+  name character varying(150),
+  login character varying(50),
+  password character varying(100),
+  CONSTRAINT tusers_pkey PRIMARY KEY (id)
+
+);
+
+
+
+DROP TABLE IF EXISTS  "user_session"  CASCADE;
+CREATE TABLE "user_session" (
+  "sid" varchar NOT NULL COLLATE "default",
+	"sess" json NOT NULL,
+	"expire" timestamp(6) NOT NULL
+)
+WITH (OIDS=FALSE);
+ALTER TABLE "user_session" ADD CONSTRAINT "user_session_pkey" PRIMARY KEY ("sid") NOT DEFERRABLE INITIALLY IMMEDIATE;
+
+
+INSERT INTO users(name,login,password) VALUES ('Takai','admin@admin.com','admin123')
+
+
+kildekode.postgres.database.azure.com
+whoami@kildekode
+P@55w.rd

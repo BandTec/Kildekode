@@ -6,7 +6,7 @@ router.get('/login', (req, res) => {
 });
 
 router.post('/login',async (req, res) => {
-   let login = req.body.login
+   let login = req.body.username
    let password = req.body.password
    let user = await User.find(login,password)
    console.log(user)
@@ -26,14 +26,15 @@ router.post('/login',async (req, res) => {
 });
 
 router.get('/register', (req, res) => {
-    res.render('auth/register');
+    res.render('auth/login');
 });
 
 router.post('/register',async (req, res) => {
-   let name = req.body.name
-   let login = req.body.login
+   let username = req.body.username
+   let email = req.body.email
    let password = req.body.password
-   let user = await User.register(name,login,password)
+   let cpf = req.body.cpf
+   let user = await User.register(username, email, password, cpf)
    
 
     res.redirect('/auth/login');

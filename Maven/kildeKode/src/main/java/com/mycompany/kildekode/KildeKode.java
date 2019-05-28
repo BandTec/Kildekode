@@ -5,6 +5,7 @@ import java.awt.Component;
 import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import org.json.JSONObject;
 import oshi.hardware.HardwareAbstractionLayer;
 
 /**
@@ -13,15 +14,19 @@ import oshi.hardware.HardwareAbstractionLayer;
  *
  * @author lucas
  */
-public class KildeKode {//implements VirtualMemory
+public class KildeKode {
                         
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, Exception {
         //oshi
         oshi.SystemInfo si = new oshi.SystemInfo();
         HardwareAbstractionLayer hal = si.getHardware();
+        JSONObject jason = new JSONObject();
         double cpuTicks;
         hal.getComputerSystem();
+        Slack s = new Slack();
+        
+        
         
         
         Processos proc = new Processos(si);
@@ -50,12 +55,13 @@ public class KildeKode {//implements VirtualMemory
         
         Jdbc j = new Jdbc();
         
-        j.buscarUsuarios();
         
         while(true){
             try {
                 j.inserirDados(processador.getCpuLoad(), mem.getMemoriaUsada(), proc.getQuantidadeProcessos(), di.getTamanhoDisco(),1);
                 Thread.sleep(10000);
+                jason.put("text", "Novos dados inseridos na tabela registro");
+                s.inserirMenssagem(jason);
             } catch (InterruptedException ex) {
                 new ConsoleLog("Erro: " + ex);
             }

@@ -1,4 +1,3 @@
-
 package com.mycompany.kildekode;
 
 
@@ -15,7 +14,7 @@ import org.json.JSONObject;
  * @author Aluno
  */
 public class Slack {
-    private String url = "Coloque aqui sua URL do slack (webhook)";
+    private String url = "https://hooks.slack.com/services/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";
     
     public void inserirMenssagem(JSONObject menssagem) throws Exception{
         
@@ -38,7 +37,7 @@ public class Slack {
         
         new ConsoleLog("Mandando 'POST' para a Url: " + this.url);
         new ConsoleLog("Parametros do POST: " + menssagem.toString());
-        new ConsoleLog("Código de Resposta: " + codigoResposta);
+        new ConsoleLog("Codigo de Resposta: " + codigoResposta);
         
         BufferedReader leitor = new BufferedReader(new InputStreamReader(con.getInputStream()));
         

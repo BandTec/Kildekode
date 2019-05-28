@@ -19,7 +19,7 @@ public class Jdbc {
         new ConsoleLog("Conectando no Banco de Dados");
         
         dataSource.setDriverClassName("org.postgresql.Driver");
-        dataSource.setUrl("jdbc:postgresql://kildekode.postgres.database.azure.com:5432/{your_database}?user=whoami@kildekode&password={your_password}&sslmode=require");
+        dataSource.setUrl("jdbc:postgresql://kildekode.postgres.database.azure.com:5432/kildekode?user=whoami@kildekode&password=P@55w.rd&sslmode=require");
         dataSource.setUsername("whoami@kildekode");
         dataSource.setPassword("P@55w.rd");
         

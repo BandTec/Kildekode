@@ -4,6 +4,7 @@ const authRouter = require('./authRouter')
 
 const middleware = require('../middleware')
 
+
 router.get('/',middleware.islogged, (req, res) => {
     res.render('dashboard');
 });
@@ -18,6 +19,10 @@ router.get('/login',(req,res) =>{
 })
 router.get('/register',(req,res) =>{
     res.redirect('/auth/register')
+})
+
+router.get('/dados', (req, res) => {
+    res.send('/auth/dados')
 })
 
 module.exports = router

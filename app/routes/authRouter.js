@@ -1,5 +1,8 @@
 const router = require('express').Router();
 const User = require('../model/User')
+const pg = require('pg')
+const config = require('../config/config')
+const pool = new pg.Pool(config.postgres.poolSettings)
 
 router.get('/login', (req, res) => {
     res.render('auth/login');
@@ -52,6 +55,20 @@ router.get('/logout', (req, res) => {
     };
 
     res.redirect('/auth/login');
+});
+
+router.get('/dados', async (req, res) => {
+    const client = await pool.connect()
+    
+    var limite_linhas = 10;
+
+    var resposta = client.query(`SELECT ram FROM registros limit ${limite_linhas}`).then(resultados => {
+        res.json(resposta);
+        console.log(resultados);
+    }).catch(error => {
+        console.log(error);
+        res.status(400).json({"error": `Erro na consulta junto ao banco de dados ${error}`});
+    });
 });
 
 module.exports = router

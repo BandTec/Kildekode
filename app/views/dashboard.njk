@@ -14,57 +14,6 @@
     </body>
 
     <script>
-            //google.charts.load('current', {'packages': ['corechart'],'language': 'pt'});
-           //google.charts.load('current', {'packages': ['corechart']});
-           //google.charts.setOnLoadCallback(desenharGraficos);
-           //
-           //function desenharGraficos() {
-           //    var dados;
-           //    var tabela;
-//
-           //    tabela.addColumn('number', 'ram');
-//
-           //    $.ajax({
-           //        cache: false,
-           //        method: "get",
-           //        url: "/dados",
-           //        success: (data) => {
-           //            dados = data;
-           //            tabela = new google.visualization.DataTable(dados);
-           //            grafico.draw(tabela);
-           //        },
-           //        error: (e) => {
-           //            console.log("Erro: ", e);
-           //            return;
-           //        }
-           //    });
-//
-           //    for(var i = 0; i < 10; i++){
-           //        tabela.addRows([dados[i].ram]);
-           //    }
-//
-//
-           //    //tabela.sort([{column: 1, desc: true}]);
-           //    var opcoes = {
-           //        title: 'dados',
-           //        height: 400,
-           //        width: 800,
-           //        legend: 'none',
-           //        hAxis: {
-           //            gridlines: {
-           //                color: 'transparent'
-           //            },
-           //            textPosition: 'none'
-           //        },
-           //        annotations: {
-           //            alwaysOutside: true
-           //        }
-           //    }
-           //    
-           //    var grafico = new google.visualization.LineChart(document.getElementById("graficoArea"));
-//
-           //};
-
              // Load the Visualization API and the piechart package.
     google.charts.load('current', {'packages':['corechart']});
     var chart;
@@ -76,7 +25,7 @@
 		chart = new google.visualization.LineChart(document.getElementById('graficoArea'));
 		//carregarDadosGrafico();
 		setInterval(carregarGraficoRam, 5000);
-	});
+	  });
       
     function carregarGraficoRam(){
     $.ajax({

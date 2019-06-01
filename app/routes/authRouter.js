@@ -57,14 +57,14 @@ router.get('/logout', (req, res) => {
     res.redirect('/auth/login');
 });
 
-router.get('/dados', async (req, res) => {
+router.get('/dados', async (req, res, next) => {
     const client = await pool.connect()
     
     var limite_linhas = 10;
 
-    var resposta = client.query(`SELECT ram FROM registros limit ${limite_linhas}`).then(resultados => {
-        res.json(resposta);
-        console.log(resultados);
+    client.query(`SELECT ram FROM registros limit ${limite_linhas}`).then(resultados => {
+        res.json(resultados.rows);
+        console.log(resultados.rows);
     }).catch(error => {
         console.log(error);
         res.status(400).json({"error": `Erro na consulta junto ao banco de dados ${error}`});

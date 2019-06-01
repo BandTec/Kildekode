@@ -1,4 +1,4 @@
-desenharGraficos() {
+function desenharGraficos() {
     google
         .charts
         .load('current', {

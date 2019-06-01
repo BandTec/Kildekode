@@ -7,7 +7,13 @@
         <title>Document</title>
         <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script>
+        
+    </head>
+    <body>
+        <div id="graficoArea"></div>
+    </body>
+
+    <script>
             //google.charts.load('current', {'packages': ['corechart'],'language': 'pt'});
            //google.charts.load('current', {'packages': ['corechart']});
            //google.charts.setOnLoadCallback(desenharGraficos);
@@ -61,32 +67,54 @@
 
              // Load the Visualization API and the piechart package.
     google.charts.load('current', {'packages':['corechart']});
-      
+    var chart;
+    var memoriaRam;
+    var stringtemp;
+    var temp;
     // Set a callback to run when the Google Visualization API is loaded.
-    google.charts.setOnLoadCallback(drawChart);
+   	google.charts.setOnLoadCallback(() => {
+		chart = new google.visualization.LineChart(document.getElementById('graficoArea'));
+		//carregarDadosGrafico();
+		setInterval(carregarGraficoRam, 5000);
+	});
       
-    function drawChart() {
-      var jsonData = $.ajax({
-          url: "/dados",
-          dataType: "json",
-          async: false
-          }).responseText;
+    function carregarGraficoRam(){
+    $.ajax({
+			cache: false,
+			method: "get",
+			url: `/dados`,
+			success: function (dataRam) {
+				drawChart(dataRam);
+			},
+			error: function (e) {
+				console.log("Erro:", e);
+			}
+		});
+    }
+
+
+    function drawChart(data) {
+      //var jsonData = $.ajax({
+       //   url: "/dados",
+         // async: false
+         // });
           
       // Create our data table out of JSON data loaded from server.
-      var data = new google.visualization.DataTable();
+      var dataTableRam = new google.visualization.DataTable();
+      dataTableRam.addColumn('string','Ram');
+      dataTableRam.addColumn('number','porcentagem');
 
       for(let i = 0; i < 10; i++){
-          data.addRows([jsonData[i]])
+        memoriaRam = parseFloat(data.rows[i].ram);
+          dataTableRam.addRows([
+          ['ram', memoriaRam]
+          ]);
+          
       }
-
       // Instantiate and draw our chart, passing in some options.
-      var chart = new google.visualization.LineChart(document.getElementById('graficoArea'));
-      chart.draw(data, {width: 400, height: 240});
+     
+      chart.draw(dataTableRam, {width: 400, height: 240});
     }
 
         </script>
-    </head>
-    <body>
-        <div id="graficoArea"></div>
-    </body>
 </html>

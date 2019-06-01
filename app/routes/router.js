@@ -22,7 +22,7 @@ router.get('/register',(req,res) =>{
 })
 
 router.get('/dados', (req, res) => {
-    res.send('/auth/dados')
+    res.redirect('/auth/dados')
 })
 
 module.exports = router

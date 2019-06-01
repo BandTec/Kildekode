@@ -63,8 +63,9 @@ router.get('/dados', async (req, res, next) => {
     var limite_linhas = 10;
 
     client.query(`SELECT ram FROM registros limit ${limite_linhas}`).then(resultados => {
-        res.json(resultados.rows);
-        console.log(resultados.rows);
+
+        res.json(resultados);
+        console.log(resultados);
     }).catch(error => {
         console.log(error);
         res.status(400).json({"error": `Erro na consulta junto ao banco de dados ${error}`});

@@ -6,7 +6,7 @@ const middleware = require('../middleware')
 
 
 router.get('/',middleware.islogged, (req, res) => {
-    res.render('dashboard');
+    res.render('index');
 });
 
 router.use('/auth',authRouter)

@@ -79,7 +79,7 @@ router.get("/", middleware.islogged, async (req, res) => {
     console.log(resultados2);
     console.log(resultados3);
     console.log(resultados4);
-    res.render("index", {
+    res.send("index", {
       title: `${titulo1}`,
       label: label1,
       data: data1,

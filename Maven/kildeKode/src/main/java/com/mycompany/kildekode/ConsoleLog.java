@@ -28,9 +28,11 @@ public class ConsoleLog {
     private void escreverLog(String erros) throws IOException {
         try {
             DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
+            DateFormat day = new SimpleDateFormat("yyyyMMdd");
             Date date = new Date();
-            
-            arquivo = new File("Log.txt");
+            String nomeArquivo = day.format(date) + "Log.txt";
+
+            arquivo = new File(nomeArquivo);
             fileReader = new FileReader(arquivo);
             bufferedReader = new BufferedReader(fileReader);
             List<String> texto = new ArrayList();

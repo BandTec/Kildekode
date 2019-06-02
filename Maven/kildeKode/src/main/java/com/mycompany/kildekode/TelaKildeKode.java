@@ -6,6 +6,7 @@
 package com.mycompany.kildekode;
 
 import java.io.IOException;
+import org.json.JSONObject;
 import oshi.hardware.HardwareAbstractionLayer;
 
 /**
@@ -17,16 +18,18 @@ public class TelaKildeKode extends javax.swing.JFrame {
     /**
      * Creates new form TelaKildeKode
      */
-    
-    private static oshi.SystemInfo si = new oshi.SystemInfo();
-    private static HardwareAbstractionLayer hal = si.getHardware();
-        
-    private static Processador processador = new Processador(hal);
-    private static Processos proc = new Processos(si);
-    private static Memoria mem = new Memoria(hal);
-    private static Disco di = new Disco(hal);
-    private static Jdbc banco = new Jdbc();
-    
+    private static  oshi.SystemInfo si = new oshi.SystemInfo();
+    private static  HardwareAbstractionLayer hal = si.getHardware();
+
+    private static  Processador processador = new Processador(hal);
+    private static  Processos proc = new Processos(si);
+    private static  Memoria mem = new Memoria(hal);
+    private static  Disco di = new Disco(hal);
+    private static  Jdbc banco = new Jdbc();
+    private static  JSONObject jason = new JSONObject();
+    private static  Slack s = new Slack();
+    private static  Alerta alerta = new Alerta(proc, mem, processador, di);
+
     public TelaKildeKode() {
         initComponents();
     }
@@ -91,8 +94,9 @@ public class TelaKildeKode extends javax.swing.JFrame {
 
     /**
      * @param args the command line arguments
+     * @throws java.io.IOException
      */
-    public static void main(String args[]) throws IOException {
+    public static void main(String args[]) throws IOException, Exception {
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
         /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
@@ -116,33 +120,40 @@ public class TelaKildeKode extends javax.swing.JFrame {
         }
         //</editor-fold>
 
-        
-        
-        
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             @Override
             public void run() {
                 new TelaKildeKode().setVisible(true);
                 atualizaTabela();
-                
+                alerta.iniciarAlertas();
             }
         });
-        
-    }
-    
-    public static void atualizaTabela(){
-        
-        for(int i = 0; i < jTable1.getRowCount();i++){
-            jTable1.setValueAt(String.format("%.2f",processador.getCpuLoad()) + "%", i, 0);
-            jTable1.setValueAt(String.format("%.2f",mem.getMemoriaUsada()) + "%", i, 1);
-            jTable1.setValueAt(proc.getQuantidadeProcessos(),i,2);
-            jTable1.setValueAt(String.format("%.2f",di.getTamanhoDisco()), i, 3);
+
+        while (true) {
+            try {
+                banco.inserirDados(processador.getCpuLoad(), mem.getMemoriaUsada(), proc.getQuantidadeProcessos(), di.getTamanhoDisco(), 1);
+                jason.put("text", "Novos dados inseridos na tabela registro");
+                s.inserirMenssagem(jason);
+                Thread.sleep(10000);
+            } catch (InterruptedException ex) {
+                new ConsoleLog("Erro: " + ex);
+            }
         }
-        
+
     }
-    
-    
+
+    public static void atualizaTabela() {
+
+        for (int i = 0; i < jTable1.getRowCount(); i++) {
+            jTable1.setValueAt(String.format("%.2f", processador.getCpuLoad()) + "%", i, 0);
+            jTable1.setValueAt(String.format("%.2f", mem.getMemoriaUsada()) + "%", i, 1);
+            jTable1.setValueAt(proc.getQuantidadeProcessos(), i, 2);
+            jTable1.setValueAt(String.format("%.2f", di.getTamanhoDisco()), i, 3);
+        }
+
+    }
+
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JScrollPane jScrollPane1;

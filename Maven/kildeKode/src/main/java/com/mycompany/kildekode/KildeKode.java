@@ -22,7 +22,6 @@ public class KildeKode {
         oshi.SystemInfo si = new oshi.SystemInfo();
         HardwareAbstractionLayer hal = si.getHardware();
         JSONObject jason = new JSONObject();
-        double cpuTicks;
         hal.getComputerSystem();
         Slack s = new Slack();
         

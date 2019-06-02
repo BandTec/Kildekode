@@ -7,7 +7,10 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 public class ConsoleLog {
@@ -24,6 +27,9 @@ public class ConsoleLog {
 
     private void escreverLog(String erros) throws IOException {
         try {
+            DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
+            Date date = new Date();
+            
             arquivo = new File("Log.txt");
             fileReader = new FileReader(arquivo);
             bufferedReader = new BufferedReader(fileReader);
@@ -38,7 +44,7 @@ public class ConsoleLog {
                 bufferedWriter.newLine();
             }
 
-            bufferedWriter.write(erros);
+            bufferedWriter.write(dateFormat.format(date) + " | " + erros);
             bufferedReader.close();
             bufferedWriter.close();
         } catch (FileNotFoundException ex) {

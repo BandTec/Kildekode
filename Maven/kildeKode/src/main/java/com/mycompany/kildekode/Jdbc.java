@@ -27,7 +27,7 @@ public class Jdbc {
         
         
         new ConsoleLog("inserindo dados na tabela");
-        jdbTemplate.update("insert into public.registros values (default,?,?,?,?,?,1)",disco, processos, memoria, cpu, totem);
+        jdbTemplate.update("insert into public.registros (idregistros,disco,processos,ram,cpumaquina,idtotem,idend,data_hora) values (default,?,?,?,?,?,1,localtimestamp)",disco, processos, memoria, cpu, totem);
         
         new ConsoleLog("Sucesso...");
     }

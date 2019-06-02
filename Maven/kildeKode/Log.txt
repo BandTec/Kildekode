@@ -1,4 +1,4 @@
-Conectando no Banco de Dados
+ Conectando no Banco de Dados
 Conectando no Banco de Dados
 inserindo dados na tabela
 Conectando no Banco de Dados
@@ -99,34 +99,34 @@ Conectando no Banco de Dados
 Iniciando envio de menssagem para o Slack
 Mandando 'POST' para a Url: https://hooks.slack.com/services/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
 Parametros do POST: Dormiu 10 segundos
-Código de Resposta: 400
+Cï¿½digo de Resposta: 400
 Iniciando envio de menssagem para o Slack
 Mandando 'POST' para a Url: https://hooks.slack.com/services/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
 Parametros do POST: Dormiu 10 segundos
-Código de Resposta: 400
+Cï¿½digo de Resposta: 400
 Iniciando envio de menssagem para o Slack
 Mandando 'POST' para a Url: https://hooks.slack.com/services/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
 Parametros do POST: {"Info":"Dormiu 10 segundos"}
-Código de Resposta: 400
+Cï¿½digo de Resposta: 400
 Iniciando envio de menssagem para o Slack
 Mandando 'POST' para a Url: https://hooks.slack.com/services/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
 Parametros do POST: {"Text":"Dormiu 10 segundos"}
-Código de Resposta: 400
+Cï¿½digo de Resposta: 400
 Iniciando envio de menssagem para o Slack
 Iniciando envio de menssagem para o Slack
 Mandando 'POST' para a Url: https://hooks.slack.com/services/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
 Parametros do POST: {"text":"dormiu 10 segundos"}
-Código de Resposta: 200
+Cï¿½digo de Resposta: 200
 Sucesso...
 Iniciando envio de menssagem para o Slack
 Mandando 'POST' para a Url: https://hooks.slack.com/services/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
 Parametros do POST: {"text":"dormiu 10 segundos"}
-Código de Resposta: 200
+Cï¿½digo de Resposta: 200
 Sucesso...
 Iniciando envio de menssagem para o Slack
 Mandando 'POST' para a Url: https://hooks.slack.com/services/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
 Parametros do POST: {"text":"dormiu 10 segundos"}
-Código de Resposta: 200
+Cï¿½digo de Resposta: 200
 Sucesso...
 Conectando no Banco de Dados
 inserindo dados na tabela
@@ -136,7 +136,7 @@ Sucesso...
 Iniciando envio de menssagem para o Slack
 Mandando 'POST' para a Url: https://hooks.slack.com/services/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
 Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
-Código de Resposta: 200
+Cï¿½digo de Resposta: 200
 Sucesso...
 Conectando no Banco de Dados
 inserindo dados na tabela
@@ -144,7 +144,7 @@ Sucesso...
 Iniciando envio de menssagem para o Slack
 Mandando 'POST' para a Url: https://hooks.slack.com/services/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
 Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
-Código de Resposta: 200
+Cï¿½digo de Resposta: 200
 Sucesso...
 Conectando no Banco de Dados
 inserindo dados na tabela
@@ -152,7 +152,7 @@ Sucesso...
 Iniciando envio de menssagem para o Slack
 Mandando 'POST' para a Url: https://hooks.slack.com/services/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
 Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
-Código de Resposta: 200
+Cï¿½digo de Resposta: 200
 Sucesso...
 Conectando no Banco de Dados
 inserindo dados na tabela
@@ -160,8 +160,477 @@ Sucesso...
 Iniciando envio de menssagem para o Slack
 Mandando 'POST' para a Url: https://hooks.slack.com/services/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
 Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
-Código de Resposta: 200
+Cï¿½digo de Resposta: 200
 Sucesso...
 Conectando no Banco de Dados
 inserindo dados na tabela
 Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Conectando no Banco de Dados
+inserindo dados na tabela
+Conectando no Banco de Dados
+inserindo dados na tabela
+Conectando no Banco de Dados
+inserindo dados na tabela
+Conectando no Banco de Dados
+inserindo dados na tabela
+Conectando no Banco de Dados
+inserindo dados na tabela
+Conectando no Banco de Dados
+inserindo dados na tabela
+Conectando no Banco de Dados
+inserindo dados na tabela
+Conectando no Banco de Dados
+inserindo dados na tabela
+Conectando no Banco de Dados
+inserindo dados na tabela
+Conectando no Banco de Dados
+inserindo dados na tabela
+Conectando no Banco de Dados
+inserindo dados na tabela
+Conectando no Banco de Dados
+inserindo dados na tabela
+Conectando no Banco de Dados
+inserindo dados na tabela
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+Iniciando envio de menssagem para o Slack
+Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+Codigo de Resposta: 200
+Sucesso...
+Conectando no Banco de Dados
+inserindo dados na tabela
+Sucesso...
+2019/06/02 13:46:53 | Conectando no Banco de Dados
+2019/06/02 13:46:53 | inserindo dados na tabela
+2019/06/02 13:46:55 | Sucesso...
+2019/06/02 13:47:05 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:47:05 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:47:05 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:47:05 | Codigo de Resposta: 200
+2019/06/02 13:47:05 | Sucesso...
+2019/06/02 13:47:06 | Conectando no Banco de Dados
+2019/06/02 13:47:06 | inserindo dados na tabela
+2019/06/02 13:47:06 | Sucesso...
+2019/06/02 13:47:16 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:47:16 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:47:16 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:47:16 | Codigo de Resposta: 200
+2019/06/02 13:47:16 | Sucesso...
+2019/06/02 13:47:16 | Conectando no Banco de Dados
+2019/06/02 13:47:16 | inserindo dados na tabela
+2019/06/02 13:47:16 | Sucesso...
+2019/06/02 13:47:26 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:47:27 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:47:27 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:47:27 | Codigo de Resposta: 200
+2019/06/02 13:47:27 | Sucesso...
+2019/06/02 13:47:28 | Conectando no Banco de Dados
+2019/06/02 13:47:28 | inserindo dados na tabela
+2019/06/02 13:47:28 | Sucesso...
+2019/06/02 13:47:38 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:47:38 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:47:38 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:47:38 | Codigo de Resposta: 200
+2019/06/02 13:47:38 | Sucesso...
+2019/06/02 13:47:38 | Conectando no Banco de Dados
+2019/06/02 13:47:38 | inserindo dados na tabela
+2019/06/02 13:47:38 | Sucesso...
+2019/06/02 13:47:48 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:47:48 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:47:48 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:47:48 | Codigo de Resposta: 200
+2019/06/02 13:47:48 | Sucesso...
+2019/06/02 13:47:49 | Conectando no Banco de Dados
+2019/06/02 13:47:49 | inserindo dados na tabela
+2019/06/02 13:47:49 | Sucesso...
+2019/06/02 13:47:59 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:47:59 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:47:59 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:47:59 | Codigo de Resposta: 200
+2019/06/02 13:47:59 | Sucesso...
+2019/06/02 13:47:59 | Conectando no Banco de Dados
+2019/06/02 13:47:59 | inserindo dados na tabela
+2019/06/02 13:47:59 | Sucesso...
+2019/06/02 13:48:09 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:48:10 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:48:10 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:48:10 | Codigo de Resposta: 200
+2019/06/02 13:48:10 | Sucesso...
+2019/06/02 13:48:10 | Conectando no Banco de Dados
+2019/06/02 13:48:10 | inserindo dados na tabela
+2019/06/02 13:48:10 | Sucesso...
+2019/06/02 13:48:20 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:48:20 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:48:20 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:48:20 | Codigo de Resposta: 200
+2019/06/02 13:48:20 | Sucesso...
+2019/06/02 13:48:20 | Conectando no Banco de Dados
+2019/06/02 13:48:20 | inserindo dados na tabela
+2019/06/02 13:48:20 | Sucesso...
+2019/06/02 13:48:30 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:48:31 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:48:31 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:48:31 | Codigo de Resposta: 200
+2019/06/02 13:48:31 | Sucesso...
+2019/06/02 13:48:31 | Conectando no Banco de Dados
+2019/06/02 13:48:31 | inserindo dados na tabela
+2019/06/02 13:48:31 | Sucesso...
+2019/06/02 13:48:41 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:48:41 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:48:41 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:48:41 | Codigo de Resposta: 200
+2019/06/02 13:48:41 | Sucesso...
+2019/06/02 13:48:42 | Conectando no Banco de Dados
+2019/06/02 13:48:42 | inserindo dados na tabela
+2019/06/02 13:48:42 | Sucesso...
+2019/06/02 13:48:52 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:48:52 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:48:52 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:48:52 | Codigo de Resposta: 200
+2019/06/02 13:48:52 | Sucesso...
+2019/06/02 13:48:52 | Conectando no Banco de Dados
+2019/06/02 13:48:52 | inserindo dados na tabela
+2019/06/02 13:48:53 | Sucesso...
+2019/06/02 13:49:03 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:49:03 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:49:03 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:49:03 | Codigo de Resposta: 200
+2019/06/02 13:49:03 | Sucesso...
+2019/06/02 13:49:03 | Conectando no Banco de Dados
+2019/06/02 13:49:03 | inserindo dados na tabela
+2019/06/02 13:49:03 | Sucesso...
+2019/06/02 13:49:13 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:49:14 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:49:14 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:49:14 | Codigo de Resposta: 200
+2019/06/02 13:49:14 | Sucesso...
+2019/06/02 13:49:14 | Conectando no Banco de Dados
+2019/06/02 13:49:14 | inserindo dados na tabela
+2019/06/02 13:49:14 | Sucesso...
+2019/06/02 13:49:24 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:49:25 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:49:25 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:49:25 | Codigo de Resposta: 200
+2019/06/02 13:49:25 | Sucesso...
+2019/06/02 13:49:25 | Conectando no Banco de Dados
+2019/06/02 13:49:25 | inserindo dados na tabela
+2019/06/02 13:49:25 | Sucesso...
+2019/06/02 13:49:35 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:49:35 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:49:35 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:49:35 | Codigo de Resposta: 200
+2019/06/02 13:49:35 | Sucesso...
+2019/06/02 13:49:36 | Conectando no Banco de Dados
+2019/06/02 13:49:36 | inserindo dados na tabela
+2019/06/02 13:49:36 | Sucesso...
+2019/06/02 13:49:46 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:49:46 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:49:46 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:49:46 | Codigo de Resposta: 200
+2019/06/02 13:49:46 | Sucesso...
+2019/06/02 13:49:47 | Conectando no Banco de Dados
+2019/06/02 13:49:47 | inserindo dados na tabela
+2019/06/02 13:49:47 | Sucesso...
+2019/06/02 13:49:57 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:49:57 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:49:57 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:49:57 | Codigo de Resposta: 200
+2019/06/02 13:49:57 | Sucesso...
+2019/06/02 13:49:57 | Conectando no Banco de Dados
+2019/06/02 13:49:57 | inserindo dados na tabela
+2019/06/02 13:49:57 | Sucesso...
+2019/06/02 13:50:07 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:50:08 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:50:08 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:50:08 | Codigo de Resposta: 200
+2019/06/02 13:50:08 | Sucesso...
+2019/06/02 13:50:08 | Conectando no Banco de Dados
+2019/06/02 13:50:08 | inserindo dados na tabela
+2019/06/02 13:50:08 | Sucesso...
+2019/06/02 13:50:18 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:50:18 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:50:18 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:50:18 | Codigo de Resposta: 200
+2019/06/02 13:50:18 | Sucesso...
+2019/06/02 13:50:19 | Conectando no Banco de Dados
+2019/06/02 13:50:19 | inserindo dados na tabela
+2019/06/02 13:50:19 | Sucesso...
+2019/06/02 13:50:29 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:50:29 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:50:29 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:50:29 | Codigo de Resposta: 200
+2019/06/02 13:50:29 | Sucesso...
+2019/06/02 13:50:29 | Conectando no Banco de Dados
+2019/06/02 13:50:29 | inserindo dados na tabela
+2019/06/02 13:50:29 | Sucesso...
+2019/06/02 13:50:39 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:50:39 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:50:40 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:50:40 | Codigo de Resposta: 200
+2019/06/02 13:50:40 | Sucesso...
+2019/06/02 13:50:40 | Conectando no Banco de Dados
+2019/06/02 13:50:40 | inserindo dados na tabela
+2019/06/02 13:50:40 | Sucesso...
+2019/06/02 13:50:50 | Iniciando envio de menssagem para o Slack
+2019/06/02 13:50:50 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/02 13:50:51 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/02 13:50:51 | Codigo de Resposta: 200
+2019/06/02 13:50:51 | Sucesso...
+2019/06/02 13:50:51 | Conectando no Banco de Dados
+2019/06/02 13:50:51 | inserindo dados na tabela
+2019/06/02 13:50:51 | Sucesso...

@@ -350,13 +350,6 @@
       setInterval(graficos, 10000)
 
         function loadData(){
-            $.ajax({
-                cache: false,
-                method: "get",
-                url: "/",
-                success: function(data) {
-                    console.log(data);
-
                 var ram = document.getElementById('myChart').getContext('2d');
                 new Chart(ram, {
                   "type": "line",

@@ -349,75 +349,71 @@
 
       setInterval(graficos, 10000)
 
-        function loadData(){
-                var ram = document.getElementById('myChart').getContext('2d');
-                new Chart(ram, {
-                  "type": "line",
-                  "data": {
-                    "labels": {{label | dump | safe}},
-                    "datasets": [{
-                      "label": "{{title}}",
-                      "data": [{{data}}],
-                      "fill": false,
-                      "borderColor": "#e74a3b",
-                      "lineTension": 0.1
-                    }]
-                  },
-                  "options": {}
-                });
+      function graficos(){
+        var ram = document.getElementById('myChart').getContext('2d');
+      new Chart(ram, {
+        "type": "line",
+        "data": {
+          "labels": {{label | dump | safe}},
+          "datasets": [{
+            "label": "{{title}}",
+            "data": [{{data}}],
+            "fill": false,
+            "borderColor": "#e74a3b",
+            "lineTension": 0.1
+          }]
+        },
+        "options": {}
+      });
 
-              var disco = document.getElementById('myChart2').getContext('2d');
-              new Chart(disco, {
-                "type": "line",
-                "data": {
-                  "labels": {{label2 | dump | safe}},
-                  "datasets": [{
-                    "label": "{{title2}}",
-                    "data": [{{data2}}],
-                    "fill": false,
-                    "borderColor": "#f6c23e",
-                    "lineTension": 0.1
-                  }]
-                },
-                "options": {}
-              });
+      var disco = document.getElementById('myChart2').getContext('2d');
+      new Chart(disco, {
+        "type": "line",
+        "data": {
+          "labels": {{label2 | dump | safe}},
+          "datasets": [{
+            "label": "{{title2}}",
+            "data": [{{data2}}],
+            "fill": false,
+            "borderColor": "#f6c23e",
+            "lineTension": 0.1
+          }]
+        },
+        "options": {}
+      });
 
-              var processos = document.getElementById('myChart3').getContext('2d');
-              new Chart(processos, {
-                "type": "line",
-                "data": {
-                  "labels": {{label3 | dump | safe}},
-                  "datasets": [{
-                    "label": "{{title3}}",
-                    "data": [{{data3}}],
-                    "fill": false,
-                    "borderColor": "#4e73df",
-                    "lineTension": 0.1
-                  }]
-                },
-                "options": {}
-              });
+      var processos = document.getElementById('myChart3').getContext('2d');
+      new Chart(processos, {
+        "type": "line",
+        "data": {
+          "labels": {{label3 | dump | safe}},
+          "datasets": [{
+            "label": "{{title3}}",
+            "data": [{{data3}}],
+            "fill": false,
+            "borderColor": "#4e73df",
+            "lineTension": 0.1
+          }]
+        },
+        "options": {}
+      });
 
-              var cpumaquina = document.getElementById('myChart4').getContext('2d');
-              new Chart(cpumaquina, {
-                "type": "line",
-                "data": {
-                  "labels": {{label4 | dump | safe}},
-                  "datasets": [{
-                    "label": "{{title4}}",
-                    "data": [{{data4}}],
-                    "fill": false,
-                    "borderColor": "#1cc88a",
-                    "lineTension": 0.1
-                  }]
-                },
-                "options": {}
-              });
-              }
-            });
-        }
-        
-        
+      var cpumaquina = document.getElementById('myChart4').getContext('2d');
+      new Chart(cpumaquina, {
+        "type": "line",
+        "data": {
+          "labels": {{label4 | dump | safe}},
+          "datasets": [{
+            "label": "{{title4}}",
+            "data": [{{data4}}],
+            "fill": false,
+            "borderColor": "#1cc88a",
+            "lineTension": 0.1
+          }]
+        },
+        "options": {}
+      });
+      }
     </script>
 
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0/dist/Chart.min.js"></script>

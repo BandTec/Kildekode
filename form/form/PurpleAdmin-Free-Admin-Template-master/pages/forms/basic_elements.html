@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <title>KILDEKODE</title>
+
+  <script type="text/javascript" src="../../js/basic_element.js"></script>
+  <link rel="stylesheet" href="../../css/style.css">
+</head>
+
+<body>
+  <div class="container-scroller">
+    <div class="container-fluid page-body-wrapper">
+      <div class="row row-offcanvas row-offcanvas-right">
+        <div class="content-wrapper">
+          <div class="row">
+            <div class="col-12 grid-margin">
+              <div class="card">
+                <div class="card-body">
+                  <h4 class="card-title">Cadastro de máquina</h4>
+                  <form class="form-sample">
+                    <p class="card-description">
+                      Preencha as informações abaixo para cadastar sua máquina.
+                    </p>
+                    <div class="row">
+                      <div class="col-md-6">
+                        <div class="form-group row">
+                          <label class="col-sm-3 col-form-label">CEP</label>
+                          <div class="col-sm-9">
+                            <input name="cep" type="text" id="cep" value="" size="10" maxlength="9"
+                            onblur="pesquisacep(this.value);" class="form-control" />
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="form-group row">
+                          <label class="col-sm-3 col-form-label">Bairro</label>
+                          <div class="col-sm-9">
+                            <input name="bairro" type="text" id="bairro" size="40"  class="form-control" />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group row">
+                              <label class="col-sm-3 col-form-label">Rua</label>
+                              <div class="col-sm-9">
+                                <input  name="rua" type="text" id="rua" size="60" class="form-control" />
+                              </div>
+                            </div>
+                          </div>
+                      <div class="col-md-6">
+                          <div class="form-group row">
+                              <label class="col-sm-3 col-form-label">Cidade</label>
+                              <div class="col-sm-9">
+                                <input name="cidade" type="text" id="cidade" size="40" class="form-control" />
+                              </div>
+                            </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="form-group row">
+                          <label class="col-sm-3 col-form-label">Nº</label>
+                          <div class="col-sm-9">
+                            <input name="numeroR" type="number" id="numeroR" value="" size="10"
+                            class="form-control"/>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-md-6">
+                        <div class="form-group row">
+                          <label class="col-sm-3 col-form-label">Apelido</label>
+                          <div class="col-sm-9">
+                              <input name="apelidoR" type="text" id="apelidoR" value="" size="10" 
+                              class="form-control" />
+                            </div>
+                        </div>
+                      </div>
+                      </div>
+                      <button>Enviar</button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

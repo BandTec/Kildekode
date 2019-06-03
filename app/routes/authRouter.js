@@ -41,9 +41,6 @@ router.post('/register',async (req, res) => {
    
 
     res.redirect('/auth/login');
-   
-  
-
 });
 
 router.get('/logout', (req, res) => {
@@ -71,9 +68,5 @@ router.get('/dados', async (req, res, next) => {
         res.status(400).json({"error": `Erro na consulta junto ao banco de dados ${error}`});
     });
 });
-
-router.get('/registerAdm', (req, res) =>{
-    res.render('auth/registerAdm');
-})
 
 module.exports = router

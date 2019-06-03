@@ -72,4 +72,8 @@ router.get('/dados', async (req, res, next) => {
     });
 });
 
+router.get('/registerAdm', (req, res) =>{
+    res.render('auth/registerAdm');
+})
+
 module.exports = router

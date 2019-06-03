@@ -5,6 +5,7 @@ const pg = require("pg");
 const config = require("../config/config");
 const pool = new pg.Pool(config.postgres.poolSettings);
 const middleware = require("../middleware");
+const User = require('../model/User')
 
 
 router.get("/", middleware.islogged, async (req, res) => {
@@ -93,8 +94,6 @@ router.get("/", middleware.islogged, async (req, res) => {
     }
 });
 
-router.get("/dashboard/:type", async (req, res) => {});
-
 router.use("/auth", authRouter);
 
 router.get("/logout", (req, res) => {
@@ -127,4 +126,9 @@ router.get("/dados", async (req, res, next) => {
     client.release();
   }
 });
+
+router.get("/registerAdm", (req, res) =>{
+    res.redirect("/auth/registerAdm")
+})
+
 module.exports = router;

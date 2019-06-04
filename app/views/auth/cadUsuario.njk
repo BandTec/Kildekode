@@ -126,23 +126,22 @@
                           <h4 class="card-title">Cadastro Usuário</h4>
                           <form action="/auth/cadEndereco" method="post" class="form-sample">
                             <p class="card-description">
-                      Preencha as informações abaixo para cadastar o endereço das suas máquinas.
+                      Preencha as informações abaixo com os dados pessoais.
                     </p>
                             <div class="row">
                               <div class="col-md-6">
                                 <div class="form-group row">
-                                  <label class="col-sm-3 col-form-label">CEP</label>
+                                  <label class="col-sm-3 col-form-label">Nome</label>
                                   <div class="col-sm-9">
-                                    <input name="cep" type="text" id="cep" value="" size="10" maxlength="9"
-                            onblur="pesquisacep(this.value);" class="form-control"/>
+                                    <input  type="text" placeholder="Nome" name="nome" id="" value="" class="form-control" required/>
                                   </div>
                                 </div>
                               </div>
                               <div class="col-md-6">
                                 <div class="form-group row">
-                                  <label class="col-sm-3 col-form-label">Bairro</label>
+                                  <label class="col-sm-3 col-form-label">E-mail</label>
                                   <div class="col-sm-9">
-                                    <input name="bairro" type="text" id="bairro" size="40"  class="form-control"/>
+                                    <input type="email" name="email" placeholder="Email" class="form-control" required/>
                                   </div>
                                 </div>
                               </div>
@@ -150,40 +149,20 @@
                             <div class="row">
                               <div class="col-md-6">
                                 <div class="form-group row">
-                                  <label class="col-sm-3 col-form-label">Rua</label>
+                                  <label class="col-sm-3 col-form-label">Senha</label>
                                   <div class="col-sm-9">
-                                    <input  name="rua" type="text" id="rua" size="60" class="form-control"/>
+                                    <input  type="password" name="senha" placeholder="Senha" id="" class="form-control"/>
                                   </div>
                                 </div>
                               </div>
                               <div class="col-md-6">
                                 <div class="form-group row">
-                                  <label class="col-sm-3 col-form-label">Cidade</label>
+                                  <label class="col-sm-3 col-form-label">CPF</label>
                                   <div class="col-sm-9">
-                                    <input name="cidade" type="text" id="cidade" size="40" class="form-control"/>
+                                    <input  type="text" name="cpf" placeholder="CPF" size="12" maxlength="11"class="form-control"/>
                                   </div>
                                 </div>
-                              </div>
-                              <div class="col-md-6">
-                                <div class="form-group row">
-                                  <label class="col-sm-3 col-form-label">Nº</label>
-                                  <div class="col-sm-9">
-                                    <input name="numeroR" type="number" id="numeroR" value="" size="10"
-                            class="form-control"/>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <div class="row">
-                              <div class="col-md-6">
-                                <div class="form-group row">
-                                  <label class="col-sm-3 col-form-label">Apelido</label>
-                                  <div class="col-sm-9">
-                                    <input name="apelidoR" type="text" id="apelidoR" value="" size="10" 
-                              class="form-control"/>
-                                  </div>
-                                </div>
-                              </div>
+                              </div> 
                             </div>
                             <input type="submit" class="btn btn-default">
                           </div>

@@ -3,10 +3,40 @@ const User = require('../model/User')
 const pg = require('pg')
 const config = require('../config/config')
 const pool = new pg.Pool(config.postgres.poolSettings)
+const cadEndereco = require('../model/cadEndereco')
+const cadMaquina = require('../model/cadMaquina')
 
 router.get('/login', (req, res) => {
     res.render('auth/login');
 });
+
+router.get('/cadEndereco', (req, res) => {
+    res.render('auth/cadEndereco');
+})
+
+router.post('/cadEndereco', async (req, res) =>{
+    let cep = req.body.cep
+    let bairro = req.body.bairro
+    let rua = req.body.rua
+    let cidade = req.body.cidade
+    let numero = req.body.numeroR
+    let apelido = req.body.apelidoR
+
+    let endereco = await cadEndereco.cadEndereco(cep, bairro, rua, cidade, numero, apelido)
+
+});
+
+router.get('/cadMaquina', (req, res) => {
+    res.render('auth/cadMaquina');
+})
+
+router.post('/cadMaquina', async (req, res) =>{
+    let apelido = req.body.apelido
+    let nmtotem = req.body.nmtotem
+
+    let maquina = await cadMaquina.cadMaquina(nmtotem, apelido)
+
+})
 
 router.post('/login',async (req, res) => {
    let login = req.body.username

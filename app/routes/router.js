@@ -127,8 +127,12 @@ router.get("/dados", async (req, res, next) => {
   }
 });
 
-router.get("/registerAdm", (req, res) =>{
-    res.redirect("/auth/registerAdm")
+router.get("/cadEndereco", (req, res) =>{
+    res.render("auth/cadEndereco")
+})
+
+router.get("/cadMaquina", (req, res) =>{
+  res.render("auth/cadMaquina")
 })
 
 module.exports = router;

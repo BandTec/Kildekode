@@ -30,6 +30,10 @@ router.get('/cadMaquina', (req, res) => {
     res.render('auth/cadMaquina');
 })
 
+router.get('/cadUsuario', (req, res) => {
+    res.render('auth/cadUsuario');
+})
+
 router.post('/cadMaquina', async (req, res) =>{
     let apelido = req.body.apelido
     let nmtotem = req.body.nmtotem

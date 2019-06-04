@@ -135,4 +135,8 @@ router.get("/cadMaquina", (req, res) =>{
   res.render("auth/cadMaquina")
 })
 
+router.get("/cadUsuario", (req, res) =>{
+  res.render("auth/cadUsuario")
+})
+
 module.exports = router;

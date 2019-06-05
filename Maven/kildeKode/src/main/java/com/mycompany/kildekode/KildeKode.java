@@ -1,9 +1,6 @@
 package com.mycompany.kildekode;
 
-import java.awt.Component;
 import java.io.IOException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import org.json.JSONObject;
 import oshi.hardware.HardwareAbstractionLayer;
 
@@ -26,7 +23,7 @@ public class KildeKode {
         Processos proc = new Processos(si);
         Memoria mem = new Memoria(hal);
         Processador processador = new Processador(hal);
-        Disco di = new Disco(hal);
+        Disco di = new Disco(si);
 
         Alerta alerta = new Alerta(proc, mem, processador, di);
 
@@ -45,14 +42,15 @@ public class KildeKode {
         processador.getProcessador();
 
         di.getDiscos();
-
+        System.out.println(di.getDiscoLivre());
+        System.out.println(di.getDiscoUsado());
         Jdbc j = new Jdbc();
 
         while (true) {
             try {
-                j.inserirDados(processador.getCpuLoad(), mem.getMemoriaUsada(), proc.getQuantidadeProcessos(), di.getTamanhoDisco(), 1);
-                jason.put("text", "Novos dados inseridos na tabela registro");
-                s.inserirMenssagem(jason);
+                //j.inserirDados(processador.getCpuLoad(), mem.getMemoriaUsada(), proc.getQuantidadeProcessos(), di.getTamanhoDisco(), 1);
+                //jason.put("text", "Novos dados inseridos na tabela registro");
+                //s.inserirMenssagem(jason);
                 Thread.sleep(10000);
             } catch (InterruptedException ex) {
                 new ConsoleLog("Erro: " + ex);

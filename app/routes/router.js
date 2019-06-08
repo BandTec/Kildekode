@@ -1,6 +1,7 @@
 const router = require("express").Router();
 const dayjs = require("dayjs");
 const authRouter = require("./authRouter");
+const ajaxRouter = require("./ajaxRouter");
 const pg = require("pg");
 const config = require("../config/config");
 const pool = new pg.Pool(config.postgres.poolSettings);
@@ -95,6 +96,7 @@ router.get("/", middleware.islogged, async (req, res) => {
 });
 
 router.use("/auth", authRouter);
+router.use("/api", ajaxRouter);
 
 router.get("/logout", (req, res) => {
   res.redirect("/auth/logout");

@@ -5,6 +5,7 @@ const config = require('../config/config')
 const pool = new pg.Pool(config.postgres.poolSettings)
 const cadEndereco = require('../model/cadEndereco')
 const cadMaquina = require('../model/cadMaquina')
+const cadAdm = require('../model/cadAdmin')
 
 router.get('/login', (req, res) => {
     res.render('auth/login');
@@ -32,6 +33,15 @@ router.get('/cadMaquina', (req, res) => {
 
 router.get('/cadUsuario', (req, res) => {
     res.render('auth/cadUsuario');
+})
+
+router.post('/cadUsuario', async (req, res) => {
+    let nome = req.body.nome
+    let email = req.body.email
+    let senha = req.body.senha
+    let cpf = req.body.cpf
+
+    let admin = await cadAdm.cadAdmin(nome, email, senha, cpf)
 })
 
 router.post('/cadMaquina', async (req, res) =>{

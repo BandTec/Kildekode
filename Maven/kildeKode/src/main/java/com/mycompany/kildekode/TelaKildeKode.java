@@ -24,7 +24,7 @@ public class TelaKildeKode extends javax.swing.JFrame {
     private static  Processador processador = new Processador(hal);
     private static  Processos proc = new Processos(si);
     private static  Memoria mem = new Memoria(hal);
-    private static  Disco di = new Disco(hal);
+    private static  Disco di = new Disco(si);
     private static  Jdbc banco = new Jdbc();
     private static  JSONObject jason = new JSONObject();
     private static  Slack s = new Slack();
@@ -132,7 +132,7 @@ public class TelaKildeKode extends javax.swing.JFrame {
 
         while (true) {
             try {
-                banco.inserirDados(processador.getCpuLoad(), mem.getMemoriaUsada(), proc.getQuantidadeProcessos(), di.getTamanhoDisco(), 1);
+                banco.inserirDados(processador.getCpuLoad(), mem.getMemoriaUsada(), proc.getQuantidadeProcessos(), di.getDiscoUsado(), 1);
                 jason.put("text", "Novos dados inseridos na tabela registro");
                 s.inserirMenssagem(jason);
                 Thread.sleep(10000);

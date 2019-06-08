@@ -10,6 +10,7 @@ import java.util.List;
 import oshi.hardware.HWDiskStore;
 import oshi.hardware.HWPartition;
 import oshi.hardware.HardwareAbstractionLayer;
+import oshi.software.os.OSFileStore;
 import oshi.util.FormatUtil;
 
 /**
@@ -18,9 +19,11 @@ import oshi.util.FormatUtil;
  */
 public class Disco {
     HWDiskStore[] discos;
+    oshi.SystemInfo sis;
     
-    public Disco(HardwareAbstractionLayer hardware){
-        discos = hardware.getDiskStores();
+    public Disco(oshi.SystemInfo sistema){
+        sis = sistema;
+        discos = sis.getHardware().getDiskStores();
     }
     
     public void getDiscos(){
@@ -55,5 +58,15 @@ public class Disco {
         
         double tamanho = tamanhos.get(0) / 1000000000;
         return tamanho;
+    }
+    
+    public double getDiscoLivre(){
+        OSFileStore[] volume = sis.getOperatingSystem().getFileSystem().getFileStores();
+        double divisao = (double)volume[0].getUsableSpace() / (double)volume[0].getTotalSpace();
+        return (divisao * 100);
+    }
+    
+    public double getDiscoUsado(){
+        return 100 - getDiscoLivre();
     }
 }

@@ -112,23 +112,6 @@ router.get("/dados", (req, res) => {
   res.redirect("/auth/dados");
 });
 
-router.get("/dados", async (req, res, next) => {
-  const client = await pool.connect();
-
-  let limite_linhas = 10;
-  let tipo = "ram";
-  try {
-    let resultado = await client.query(
-      `select * from get_values('${tipo}',${limite_linhas});`
-    );
-    res.json(resultados);
-    console.log(resultados);
-  } catch (error) {
-  } finally {
-    client.release();
-  }
-});
-
 router.get("/cadEndereco", (req, res) =>{
     res.render("auth/cadEndereco")
 })

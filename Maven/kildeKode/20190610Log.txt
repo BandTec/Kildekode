@@ -1,0 +1,1566 @@
+2019/06/10 16:54:27 | Conectando no Banco de Dados
+2019/06/10 16:54:27 | inserindo dados na tabela
+2019/06/10 16:54:29 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:54:29 | Sucesso...
+2019/06/10 16:54:29 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:54:30 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:54:30 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:54:30 | Codigo de Resposta: 200
+2019/06/10 16:54:30 | Sucesso...
+2019/06/10 16:54:30 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:54:30 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:54:30 | Codigo de Resposta: 200
+2019/06/10 16:54:30 | Sucesso...
+2019/06/10 16:54:40 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:54:41 | Conectando no Banco de Dados
+2019/06/10 16:54:41 | inserindo dados na tabela
+2019/06/10 16:54:41 | Sucesso...
+2019/06/10 16:54:41 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:54:41 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:54:41 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:54:41 | Codigo de Resposta: 200
+2019/06/10 16:54:41 | Sucesso...
+2019/06/10 16:54:42 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:54:42 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:54:42 | Codigo de Resposta: 200
+2019/06/10 16:54:42 | Sucesso...
+2019/06/10 16:54:51 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:54:52 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:54:52 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:54:52 | Codigo de Resposta: 200
+2019/06/10 16:54:52 | Sucesso...
+2019/06/10 16:54:52 | Conectando no Banco de Dados
+2019/06/10 16:54:52 | inserindo dados na tabela
+2019/06/10 16:54:52 | Sucesso...
+2019/06/10 16:54:52 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:54:52 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:54:52 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:54:52 | Codigo de Resposta: 200
+2019/06/10 16:54:52 | Sucesso...
+2019/06/10 16:55:02 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:55:03 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:55:03 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:55:03 | Codigo de Resposta: 200
+2019/06/10 16:55:03 | Sucesso...
+2019/06/10 16:55:03 | Conectando no Banco de Dados
+2019/06/10 16:55:03 | inserindo dados na tabela
+2019/06/10 16:55:03 | Sucesso...
+2019/06/10 16:55:03 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:55:03 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:55:03 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:55:03 | Codigo de Resposta: 200
+2019/06/10 16:55:03 | Sucesso...
+2019/06/10 16:55:13 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:55:13 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:55:13 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:55:13 | Codigo de Resposta: 200
+2019/06/10 16:55:13 | Sucesso...
+2019/06/10 16:55:14 | Conectando no Banco de Dados
+2019/06/10 16:55:14 | inserindo dados na tabela
+2019/06/10 16:55:14 | Sucesso...
+2019/06/10 16:55:14 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:55:14 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:55:14 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:55:14 | Codigo de Resposta: 200
+2019/06/10 16:55:14 | Sucesso...
+2019/06/10 16:55:24 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:55:24 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:55:24 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:55:24 | Codigo de Resposta: 200
+2019/06/10 16:55:24 | Sucesso...
+2019/06/10 16:55:25 | Conectando no Banco de Dados
+2019/06/10 16:55:25 | inserindo dados na tabela
+2019/06/10 16:55:25 | Sucesso...
+2019/06/10 16:55:25 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:55:25 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:55:25 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:55:25 | Codigo de Resposta: 200
+2019/06/10 16:55:25 | Sucesso...
+2019/06/10 16:55:34 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:55:35 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:55:35 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:55:35 | Codigo de Resposta: 200
+2019/06/10 16:55:35 | Sucesso...
+2019/06/10 16:55:36 | Conectando no Banco de Dados
+2019/06/10 16:55:36 | inserindo dados na tabela
+2019/06/10 16:55:36 | Sucesso...
+2019/06/10 16:55:36 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:55:36 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:55:36 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:55:36 | Codigo de Resposta: 200
+2019/06/10 16:55:36 | Sucesso...
+2019/06/10 16:55:45 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:55:46 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:55:46 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:55:46 | Codigo de Resposta: 200
+2019/06/10 16:55:46 | Sucesso...
+2019/06/10 16:55:47 | Conectando no Banco de Dados
+2019/06/10 16:55:47 | inserindo dados na tabela
+2019/06/10 16:55:47 | Sucesso...
+2019/06/10 16:55:47 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:55:48 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:55:48 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:55:48 | Codigo de Resposta: 200
+2019/06/10 16:55:48 | Sucesso...
+2019/06/10 16:55:56 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:55:57 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:55:57 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:55:57 | Codigo de Resposta: 200
+2019/06/10 16:55:57 | Sucesso...
+2019/06/10 16:55:58 | Conectando no Banco de Dados
+2019/06/10 16:55:58 | inserindo dados na tabela
+2019/06/10 16:55:58 | Sucesso...
+2019/06/10 16:55:58 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:55:59 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:55:59 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:55:59 | Codigo de Resposta: 200
+2019/06/10 16:55:59 | Sucesso...
+2019/06/10 16:56:07 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:56:08 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:56:08 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:56:08 | Codigo de Resposta: 200
+2019/06/10 16:56:08 | Sucesso...
+2019/06/10 16:56:09 | Conectando no Banco de Dados
+2019/06/10 16:56:09 | inserindo dados na tabela
+2019/06/10 16:56:09 | Sucesso...
+2019/06/10 16:56:09 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:56:10 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:56:10 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:56:10 | Codigo de Resposta: 200
+2019/06/10 16:56:10 | Sucesso...
+2019/06/10 16:56:18 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:56:18 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:56:18 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:56:18 | Codigo de Resposta: 200
+2019/06/10 16:56:18 | Sucesso...
+2019/06/10 16:56:20 | Conectando no Banco de Dados
+2019/06/10 16:56:20 | inserindo dados na tabela
+2019/06/10 16:56:20 | Sucesso...
+2019/06/10 16:56:20 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:56:21 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:56:21 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:56:21 | Codigo de Resposta: 200
+2019/06/10 16:56:21 | Sucesso...
+2019/06/10 16:56:28 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:56:29 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:56:29 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:56:29 | Codigo de Resposta: 200
+2019/06/10 16:56:29 | Sucesso...
+2019/06/10 16:56:31 | Conectando no Banco de Dados
+2019/06/10 16:56:31 | inserindo dados na tabela
+2019/06/10 16:56:31 | Sucesso...
+2019/06/10 16:56:31 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:56:32 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:56:32 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:56:32 | Codigo de Resposta: 200
+2019/06/10 16:56:32 | Sucesso...
+2019/06/10 16:56:39 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:56:39 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:56:39 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:56:39 | Codigo de Resposta: 200
+2019/06/10 16:56:39 | Sucesso...
+2019/06/10 16:56:43 | Conectando no Banco de Dados
+2019/06/10 16:56:43 | inserindo dados na tabela
+2019/06/10 16:56:43 | Sucesso...
+2019/06/10 16:56:43 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:56:43 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:56:43 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:56:43 | Codigo de Resposta: 200
+2019/06/10 16:56:43 | Sucesso...
+2019/06/10 16:56:50 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:56:50 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:56:50 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:56:50 | Codigo de Resposta: 200
+2019/06/10 16:56:50 | Sucesso...
+2019/06/10 16:56:54 | Conectando no Banco de Dados
+2019/06/10 16:56:54 | inserindo dados na tabela
+2019/06/10 16:56:54 | Sucesso...
+2019/06/10 16:56:54 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:56:54 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:56:54 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:56:54 | Codigo de Resposta: 200
+2019/06/10 16:56:54 | Sucesso...
+2019/06/10 16:57:00 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:57:01 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:57:01 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:57:01 | Codigo de Resposta: 200
+2019/06/10 16:57:01 | Sucesso...
+2019/06/10 16:57:04 | Conectando no Banco de Dados
+2019/06/10 16:57:04 | inserindo dados na tabela
+2019/06/10 16:57:04 | Sucesso...
+2019/06/10 16:57:04 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:57:04 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:57:04 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:57:04 | Codigo de Resposta: 200
+2019/06/10 16:57:04 | Sucesso...
+2019/06/10 16:57:11 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:57:11 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:57:11 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:57:11 | Codigo de Resposta: 200
+2019/06/10 16:57:11 | Sucesso...
+2019/06/10 16:57:15 | Conectando no Banco de Dados
+2019/06/10 16:57:15 | inserindo dados na tabela
+2019/06/10 16:57:15 | Sucesso...
+2019/06/10 16:57:15 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:57:15 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:57:15 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:57:15 | Codigo de Resposta: 200
+2019/06/10 16:57:15 | Sucesso...
+2019/06/10 16:57:21 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:57:22 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:57:22 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:57:22 | Codigo de Resposta: 200
+2019/06/10 16:57:22 | Sucesso...
+2019/06/10 16:57:26 | Conectando no Banco de Dados
+2019/06/10 16:57:26 | inserindo dados na tabela
+2019/06/10 16:57:26 | Sucesso...
+2019/06/10 16:57:26 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:57:26 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:57:26 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:57:26 | Codigo de Resposta: 200
+2019/06/10 16:57:26 | Sucesso...
+2019/06/10 16:57:32 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:57:33 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:57:33 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:57:33 | Codigo de Resposta: 200
+2019/06/10 16:57:33 | Sucesso...
+2019/06/10 16:57:37 | Conectando no Banco de Dados
+2019/06/10 16:57:37 | inserindo dados na tabela
+2019/06/10 16:57:37 | Sucesso...
+2019/06/10 16:57:37 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:57:37 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:57:37 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:57:37 | Codigo de Resposta: 200
+2019/06/10 16:57:37 | Sucesso...
+2019/06/10 16:57:43 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:57:44 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:57:44 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:57:44 | Codigo de Resposta: 200
+2019/06/10 16:57:44 | Sucesso...
+2019/06/10 16:57:47 | Conectando no Banco de Dados
+2019/06/10 16:57:47 | inserindo dados na tabela
+2019/06/10 16:57:47 | Sucesso...
+2019/06/10 16:57:47 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:57:48 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:57:48 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:57:48 | Codigo de Resposta: 200
+2019/06/10 16:57:48 | Sucesso...
+2019/06/10 16:57:54 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:57:55 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:57:55 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:57:55 | Codigo de Resposta: 200
+2019/06/10 16:57:55 | Sucesso...
+2019/06/10 16:57:58 | Conectando no Banco de Dados
+2019/06/10 16:57:58 | inserindo dados na tabela
+2019/06/10 16:57:58 | Sucesso...
+2019/06/10 16:57:58 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:57:59 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:57:59 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:57:59 | Codigo de Resposta: 200
+2019/06/10 16:57:59 | Sucesso...
+2019/06/10 16:58:05 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:58:06 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:58:06 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:58:06 | Codigo de Resposta: 200
+2019/06/10 16:58:06 | Sucesso...
+2019/06/10 16:58:10 | Conectando no Banco de Dados
+2019/06/10 16:58:10 | inserindo dados na tabela
+2019/06/10 16:58:10 | Sucesso...
+2019/06/10 16:58:10 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:58:10 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:58:10 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:58:10 | Codigo de Resposta: 200
+2019/06/10 16:58:10 | Sucesso...
+2019/06/10 16:58:16 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:58:17 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:58:17 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:58:17 | Codigo de Resposta: 200
+2019/06/10 16:58:17 | Sucesso...
+2019/06/10 16:58:21 | Conectando no Banco de Dados
+2019/06/10 16:58:21 | inserindo dados na tabela
+2019/06/10 16:58:21 | Sucesso...
+2019/06/10 16:58:21 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:58:21 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:58:21 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:58:21 | Codigo de Resposta: 200
+2019/06/10 16:58:21 | Sucesso...
+2019/06/10 16:58:27 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:58:27 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:58:27 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:58:27 | Codigo de Resposta: 200
+2019/06/10 16:58:27 | Sucesso...
+2019/06/10 16:58:32 | Conectando no Banco de Dados
+2019/06/10 16:58:32 | inserindo dados na tabela
+2019/06/10 16:58:32 | Sucesso...
+2019/06/10 16:58:32 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:58:32 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:58:32 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:58:32 | Codigo de Resposta: 200
+2019/06/10 16:58:32 | Sucesso...
+2019/06/10 16:58:37 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:58:38 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:58:38 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:58:38 | Codigo de Resposta: 200
+2019/06/10 16:58:38 | Sucesso...
+2019/06/10 16:58:43 | Conectando no Banco de Dados
+2019/06/10 16:58:43 | inserindo dados na tabela
+2019/06/10 16:58:43 | Sucesso...
+2019/06/10 16:58:43 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:58:43 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:58:43 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:58:43 | Codigo de Resposta: 200
+2019/06/10 16:58:43 | Sucesso...
+2019/06/10 16:58:48 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:58:49 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:58:49 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:58:49 | Codigo de Resposta: 200
+2019/06/10 16:58:49 | Sucesso...
+2019/06/10 16:58:53 | Conectando no Banco de Dados
+2019/06/10 16:58:53 | inserindo dados na tabela
+2019/06/10 16:58:53 | Sucesso...
+2019/06/10 16:58:53 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:58:54 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:58:54 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:58:54 | Codigo de Resposta: 200
+2019/06/10 16:58:54 | Sucesso...
+2019/06/10 16:58:59 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:59:00 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:59:00 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:59:00 | Codigo de Resposta: 200
+2019/06/10 16:59:00 | Sucesso...
+2019/06/10 16:59:05 | Conectando no Banco de Dados
+2019/06/10 16:59:05 | inserindo dados na tabela
+2019/06/10 16:59:05 | Sucesso...
+2019/06/10 16:59:05 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:59:05 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:59:05 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:59:05 | Codigo de Resposta: 200
+2019/06/10 16:59:05 | Sucesso...
+2019/06/10 16:59:10 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:59:10 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:59:10 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:59:10 | Codigo de Resposta: 200
+2019/06/10 16:59:10 | Sucesso...
+2019/06/10 16:59:16 | Conectando no Banco de Dados
+2019/06/10 16:59:16 | inserindo dados na tabela
+2019/06/10 16:59:16 | Sucesso...
+2019/06/10 16:59:16 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:59:16 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:59:16 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:59:16 | Codigo de Resposta: 200
+2019/06/10 16:59:16 | Sucesso...
+2019/06/10 16:59:20 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:59:20 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:59:20 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:59:20 | Codigo de Resposta: 200
+2019/06/10 16:59:20 | Sucesso...
+2019/06/10 16:59:26 | Conectando no Banco de Dados
+2019/06/10 16:59:26 | inserindo dados na tabela
+2019/06/10 16:59:26 | Sucesso...
+2019/06/10 16:59:26 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:59:27 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:59:27 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:59:27 | Codigo de Resposta: 200
+2019/06/10 16:59:27 | Sucesso...
+2019/06/10 16:59:31 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:59:32 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:59:32 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:59:32 | Codigo de Resposta: 200
+2019/06/10 16:59:32 | Sucesso...
+2019/06/10 16:59:38 | Conectando no Banco de Dados
+2019/06/10 16:59:38 | inserindo dados na tabela
+2019/06/10 16:59:38 | Sucesso...
+2019/06/10 16:59:38 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:59:38 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:59:38 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:59:38 | Codigo de Resposta: 200
+2019/06/10 16:59:38 | Sucesso...
+2019/06/10 16:59:43 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:59:43 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:59:43 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:59:43 | Codigo de Resposta: 200
+2019/06/10 16:59:43 | Sucesso...
+2019/06/10 16:59:48 | Conectando no Banco de Dados
+2019/06/10 16:59:48 | inserindo dados na tabela
+2019/06/10 16:59:49 | Sucesso...
+2019/06/10 16:59:49 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:59:49 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:59:49 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 16:59:49 | Codigo de Resposta: 200
+2019/06/10 16:59:49 | Sucesso...
+2019/06/10 16:59:54 | Iniciando envio de menssagem para o Slack
+2019/06/10 16:59:54 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 16:59:54 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 16:59:54 | Codigo de Resposta: 200
+2019/06/10 16:59:54 | Sucesso...
+2019/06/10 16:59:59 | Conectando no Banco de Dados
+2019/06/10 16:59:59 | inserindo dados na tabela
+2019/06/10 16:59:59 | Sucesso...
+2019/06/10 16:59:59 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:00:00 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:00:00 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:00:00 | Codigo de Resposta: 200
+2019/06/10 17:00:00 | Sucesso...
+2019/06/10 17:00:06 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:00:06 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:00:06 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:00:06 | Codigo de Resposta: 200
+2019/06/10 17:00:06 | Sucesso...
+2019/06/10 17:00:10 | Conectando no Banco de Dados
+2019/06/10 17:00:10 | inserindo dados na tabela
+2019/06/10 17:00:10 | Sucesso...
+2019/06/10 17:00:10 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:00:10 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:00:10 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:00:10 | Codigo de Resposta: 200
+2019/06/10 17:00:10 | Sucesso...
+2019/06/10 17:00:17 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:00:18 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:00:18 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:00:18 | Codigo de Resposta: 200
+2019/06/10 17:00:18 | Sucesso...
+2019/06/10 17:00:21 | Conectando no Banco de Dados
+2019/06/10 17:00:21 | inserindo dados na tabela
+2019/06/10 17:00:21 | Sucesso...
+2019/06/10 17:00:21 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:00:21 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:00:21 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:00:21 | Codigo de Resposta: 200
+2019/06/10 17:00:21 | Sucesso...
+2019/06/10 17:00:29 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:00:30 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:00:30 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:00:30 | Codigo de Resposta: 200
+2019/06/10 17:00:30 | Sucesso...
+2019/06/10 17:00:32 | Conectando no Banco de Dados
+2019/06/10 17:00:32 | inserindo dados na tabela
+2019/06/10 17:00:32 | Sucesso...
+2019/06/10 17:00:32 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:00:32 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:00:32 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:00:32 | Codigo de Resposta: 200
+2019/06/10 17:00:32 | Sucesso...
+2019/06/10 17:00:42 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:00:42 | Conectando no Banco de Dados
+2019/06/10 17:00:42 | inserindo dados na tabela
+2019/06/10 17:00:42 | Sucesso...
+2019/06/10 17:00:42 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:00:43 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:00:43 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:00:43 | Codigo de Resposta: 200
+2019/06/10 17:00:43 | Sucesso...
+2019/06/10 17:00:43 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:00:43 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:00:43 | Codigo de Resposta: 200
+2019/06/10 17:00:43 | Sucesso...
+2019/06/10 17:00:54 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:00:54 | Conectando no Banco de Dados
+2019/06/10 17:00:54 | inserindo dados na tabela
+2019/06/10 17:00:54 | Sucesso...
+2019/06/10 17:00:54 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:00:54 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:00:54 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:00:54 | Codigo de Resposta: 200
+2019/06/10 17:00:54 | Sucesso...
+2019/06/10 17:00:55 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:00:55 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:00:55 | Codigo de Resposta: 200
+2019/06/10 17:00:55 | Sucesso...
+2019/06/10 17:01:05 | Conectando no Banco de Dados
+2019/06/10 17:01:05 | inserindo dados na tabela
+2019/06/10 17:01:05 | Sucesso...
+2019/06/10 17:01:05 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:01:05 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:01:06 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:01:06 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:01:06 | Codigo de Resposta: 200
+2019/06/10 17:01:06 | Sucesso...
+2019/06/10 17:01:06 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:01:06 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:01:06 | Codigo de Resposta: 200
+2019/06/10 17:01:06 | Sucesso...
+2019/06/10 17:01:16 | Conectando no Banco de Dados
+2019/06/10 17:01:16 | inserindo dados na tabela
+2019/06/10 17:01:16 | Sucesso...
+2019/06/10 17:01:16 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:01:17 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:01:17 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:01:17 | Codigo de Resposta: 200
+2019/06/10 17:01:17 | Sucesso...
+2019/06/10 17:01:18 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:01:18 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:01:18 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:01:18 | Codigo de Resposta: 200
+2019/06/10 17:01:18 | Sucesso...
+2019/06/10 17:01:27 | Conectando no Banco de Dados
+2019/06/10 17:01:27 | inserindo dados na tabela
+2019/06/10 17:01:27 | Sucesso...
+2019/06/10 17:01:27 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:01:28 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:01:28 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:01:28 | Codigo de Resposta: 200
+2019/06/10 17:01:28 | Sucesso...
+2019/06/10 17:01:30 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:01:30 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:01:30 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:01:30 | Codigo de Resposta: 200
+2019/06/10 17:01:30 | Sucesso...
+2019/06/10 17:01:38 | Conectando no Banco de Dados
+2019/06/10 17:01:38 | inserindo dados na tabela
+2019/06/10 17:01:38 | Sucesso...
+2019/06/10 17:01:38 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:01:39 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:01:39 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:01:39 | Codigo de Resposta: 200
+2019/06/10 17:01:39 | Sucesso...
+2019/06/10 17:01:41 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:01:42 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:01:42 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:01:42 | Codigo de Resposta: 200
+2019/06/10 17:01:42 | Sucesso...
+2019/06/10 17:01:49 | Conectando no Banco de Dados
+2019/06/10 17:01:49 | inserindo dados na tabela
+2019/06/10 17:01:49 | Sucesso...
+2019/06/10 17:01:49 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:01:50 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:01:50 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:01:50 | Codigo de Resposta: 200
+2019/06/10 17:01:50 | Sucesso...
+2019/06/10 17:01:53 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:01:53 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:01:53 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:01:53 | Codigo de Resposta: 200
+2019/06/10 17:01:53 | Sucesso...
+2019/06/10 17:02:00 | Conectando no Banco de Dados
+2019/06/10 17:02:00 | inserindo dados na tabela
+2019/06/10 17:02:00 | Sucesso...
+2019/06/10 17:02:00 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:02:00 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:02:00 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:02:00 | Codigo de Resposta: 200
+2019/06/10 17:02:00 | Sucesso...
+2019/06/10 17:02:04 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:02:05 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:02:05 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:02:05 | Codigo de Resposta: 200
+2019/06/10 17:02:05 | Sucesso...
+2019/06/10 17:02:11 | Conectando no Banco de Dados
+2019/06/10 17:02:11 | inserindo dados na tabela
+2019/06/10 17:02:11 | Sucesso...
+2019/06/10 17:02:11 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:02:12 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:02:12 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:02:12 | Codigo de Resposta: 200
+2019/06/10 17:02:12 | Sucesso...
+2019/06/10 17:02:16 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:02:16 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:02:16 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:02:16 | Codigo de Resposta: 200
+2019/06/10 17:02:16 | Sucesso...
+2019/06/10 17:02:22 | Conectando no Banco de Dados
+2019/06/10 17:02:22 | inserindo dados na tabela
+2019/06/10 17:02:22 | Sucesso...
+2019/06/10 17:02:22 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:02:23 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:02:23 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:02:23 | Codigo de Resposta: 200
+2019/06/10 17:02:23 | Sucesso...
+2019/06/10 17:02:27 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:02:28 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:02:28 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:02:28 | Codigo de Resposta: 200
+2019/06/10 17:02:28 | Sucesso...
+2019/06/10 17:02:33 | Conectando no Banco de Dados
+2019/06/10 17:02:33 | inserindo dados na tabela
+2019/06/10 17:02:33 | Sucesso...
+2019/06/10 17:02:33 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:02:34 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:02:34 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:02:34 | Codigo de Resposta: 200
+2019/06/10 17:02:34 | Sucesso...
+2019/06/10 17:02:39 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:02:40 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:02:40 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:02:40 | Codigo de Resposta: 200
+2019/06/10 17:02:40 | Sucesso...
+2019/06/10 17:02:44 | Conectando no Banco de Dados
+2019/06/10 17:02:44 | inserindo dados na tabela
+2019/06/10 17:02:44 | Sucesso...
+2019/06/10 17:02:44 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:02:45 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:02:45 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:02:45 | Codigo de Resposta: 200
+2019/06/10 17:02:45 | Sucesso...
+2019/06/10 17:02:51 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:02:52 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:02:52 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:02:52 | Codigo de Resposta: 200
+2019/06/10 17:02:52 | Sucesso...
+2019/06/10 17:02:55 | Conectando no Banco de Dados
+2019/06/10 17:02:55 | inserindo dados na tabela
+2019/06/10 17:02:55 | Sucesso...
+2019/06/10 17:02:55 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:02:55 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:02:55 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:02:55 | Codigo de Resposta: 200
+2019/06/10 17:02:55 | Sucesso...
+2019/06/10 17:03:03 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:03:04 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:03:04 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:03:04 | Codigo de Resposta: 200
+2019/06/10 17:03:04 | Sucesso...
+2019/06/10 17:03:06 | Conectando no Banco de Dados
+2019/06/10 17:03:06 | inserindo dados na tabela
+2019/06/10 17:03:06 | Sucesso...
+2019/06/10 17:03:06 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:03:06 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:03:06 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:03:06 | Codigo de Resposta: 200
+2019/06/10 17:03:06 | Sucesso...
+2019/06/10 17:03:15 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:03:16 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:03:16 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:03:16 | Codigo de Resposta: 200
+2019/06/10 17:03:16 | Sucesso...
+2019/06/10 17:03:17 | Conectando no Banco de Dados
+2019/06/10 17:03:17 | inserindo dados na tabela
+2019/06/10 17:03:17 | Sucesso...
+2019/06/10 17:03:17 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:03:17 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:03:17 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:03:17 | Codigo de Resposta: 200
+2019/06/10 17:03:17 | Sucesso...
+2019/06/10 17:03:27 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:03:27 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:03:27 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:03:27 | Codigo de Resposta: 200
+2019/06/10 17:03:27 | Sucesso...
+2019/06/10 17:03:28 | Conectando no Banco de Dados
+2019/06/10 17:03:28 | inserindo dados na tabela
+2019/06/10 17:03:28 | Sucesso...
+2019/06/10 17:03:28 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:03:28 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:03:28 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:03:28 | Codigo de Resposta: 200
+2019/06/10 17:03:28 | Sucesso...
+2019/06/10 17:03:39 | Conectando no Banco de Dados
+2019/06/10 17:03:39 | inserindo dados na tabela
+2019/06/10 17:03:39 | Sucesso...
+2019/06/10 17:03:39 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:03:39 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:03:39 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:03:39 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:03:39 | Codigo de Resposta: 200
+2019/06/10 17:03:39 | Sucesso...
+2019/06/10 17:03:40 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:03:40 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:03:40 | Codigo de Resposta: 200
+2019/06/10 17:03:40 | Sucesso...
+2019/06/10 17:03:50 | Conectando no Banco de Dados
+2019/06/10 17:03:50 | inserindo dados na tabela
+2019/06/10 17:03:50 | Sucesso...
+2019/06/10 17:03:50 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:03:50 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:03:50 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:03:50 | Codigo de Resposta: 200
+2019/06/10 17:03:50 | Sucesso...
+2019/06/10 17:03:51 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:03:52 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:03:52 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:03:52 | Codigo de Resposta: 200
+2019/06/10 17:03:52 | Sucesso...
+2019/06/10 17:04:01 | Conectando no Banco de Dados
+2019/06/10 17:04:01 | inserindo dados na tabela
+2019/06/10 17:04:01 | Sucesso...
+2019/06/10 17:04:01 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:04:01 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:04:01 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:04:01 | Codigo de Resposta: 200
+2019/06/10 17:04:01 | Sucesso...
+2019/06/10 17:04:03 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:04:04 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:04:04 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:04:04 | Codigo de Resposta: 200
+2019/06/10 17:04:04 | Sucesso...
+2019/06/10 17:04:12 | Conectando no Banco de Dados
+2019/06/10 17:04:12 | inserindo dados na tabela
+2019/06/10 17:04:12 | Sucesso...
+2019/06/10 17:04:12 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:04:13 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:04:13 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:04:13 | Codigo de Resposta: 200
+2019/06/10 17:04:13 | Sucesso...
+2019/06/10 17:04:15 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:04:15 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:04:15 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:04:15 | Codigo de Resposta: 200
+2019/06/10 17:04:15 | Sucesso...
+2019/06/10 17:04:23 | Conectando no Banco de Dados
+2019/06/10 17:04:23 | inserindo dados na tabela
+2019/06/10 17:04:23 | Sucesso...
+2019/06/10 17:04:23 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:04:24 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:04:24 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:04:24 | Codigo de Resposta: 200
+2019/06/10 17:04:24 | Sucesso...
+2019/06/10 17:04:26 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:04:27 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:04:27 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:04:27 | Codigo de Resposta: 200
+2019/06/10 17:04:27 | Sucesso...
+2019/06/10 17:04:34 | Conectando no Banco de Dados
+2019/06/10 17:04:34 | inserindo dados na tabela
+2019/06/10 17:04:34 | Sucesso...
+2019/06/10 17:04:34 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:04:35 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:04:35 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:04:35 | Codigo de Resposta: 200
+2019/06/10 17:04:35 | Sucesso...
+2019/06/10 17:04:38 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:04:38 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:04:38 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:04:38 | Codigo de Resposta: 200
+2019/06/10 17:04:38 | Sucesso...
+2019/06/10 17:04:46 | Conectando no Banco de Dados
+2019/06/10 17:04:46 | inserindo dados na tabela
+2019/06/10 17:04:46 | Sucesso...
+2019/06/10 17:04:46 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:04:47 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:04:47 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:04:47 | Codigo de Resposta: 200
+2019/06/10 17:04:47 | Sucesso...
+2019/06/10 17:04:49 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:04:50 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:04:50 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:04:50 | Codigo de Resposta: 200
+2019/06/10 17:04:50 | Sucesso...
+2019/06/10 17:04:57 | Conectando no Banco de Dados
+2019/06/10 17:04:57 | inserindo dados na tabela
+2019/06/10 17:04:57 | Sucesso...
+2019/06/10 17:04:57 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:04:58 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:04:58 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:04:58 | Codigo de Resposta: 200
+2019/06/10 17:04:58 | Sucesso...
+2019/06/10 17:05:00 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:05:01 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:05:01 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:05:01 | Codigo de Resposta: 200
+2019/06/10 17:05:01 | Sucesso...
+2019/06/10 17:05:08 | Conectando no Banco de Dados
+2019/06/10 17:05:08 | inserindo dados na tabela
+2019/06/10 17:05:08 | Sucesso...
+2019/06/10 17:05:08 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:05:09 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:05:09 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:05:09 | Codigo de Resposta: 200
+2019/06/10 17:05:09 | Sucesso...
+2019/06/10 17:05:12 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:05:12 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:05:12 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:05:12 | Codigo de Resposta: 200
+2019/06/10 17:05:12 | Sucesso...
+2019/06/10 17:05:20 | Conectando no Banco de Dados
+2019/06/10 17:05:20 | inserindo dados na tabela
+2019/06/10 17:05:20 | Sucesso...
+2019/06/10 17:05:20 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:05:20 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:05:20 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:05:20 | Codigo de Resposta: 200
+2019/06/10 17:05:20 | Sucesso...
+2019/06/10 17:05:23 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:05:24 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:05:24 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:05:24 | Codigo de Resposta: 200
+2019/06/10 17:05:24 | Sucesso...
+2019/06/10 17:05:30 | Conectando no Banco de Dados
+2019/06/10 17:05:30 | inserindo dados na tabela
+2019/06/10 17:05:30 | Sucesso...
+2019/06/10 17:05:30 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:05:31 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:05:31 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:05:31 | Codigo de Resposta: 200
+2019/06/10 17:05:31 | Sucesso...
+2019/06/10 17:05:35 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:05:36 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:05:36 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:05:36 | Codigo de Resposta: 200
+2019/06/10 17:05:36 | Sucesso...
+2019/06/10 17:05:41 | Conectando no Banco de Dados
+2019/06/10 17:05:41 | inserindo dados na tabela
+2019/06/10 17:05:41 | Sucesso...
+2019/06/10 17:05:41 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:05:42 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:05:42 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:05:42 | Codigo de Resposta: 200
+2019/06/10 17:05:42 | Sucesso...
+2019/06/10 17:05:47 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:05:47 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:05:47 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:05:47 | Codigo de Resposta: 200
+2019/06/10 17:05:47 | Sucesso...
+2019/06/10 17:05:52 | Conectando no Banco de Dados
+2019/06/10 17:05:52 | inserindo dados na tabela
+2019/06/10 17:05:52 | Sucesso...
+2019/06/10 17:05:52 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:05:53 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:05:53 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:05:53 | Codigo de Resposta: 200
+2019/06/10 17:05:53 | Sucesso...
+2019/06/10 17:05:57 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:05:57 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:05:57 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:05:57 | Codigo de Resposta: 200
+2019/06/10 17:05:57 | Sucesso...
+2019/06/10 17:06:03 | Conectando no Banco de Dados
+2019/06/10 17:06:03 | inserindo dados na tabela
+2019/06/10 17:06:03 | Sucesso...
+2019/06/10 17:06:03 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:06:03 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:06:03 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:06:03 | Codigo de Resposta: 200
+2019/06/10 17:06:03 | Sucesso...
+2019/06/10 17:06:08 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:06:09 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:06:09 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:06:09 | Codigo de Resposta: 200
+2019/06/10 17:06:09 | Sucesso...
+2019/06/10 17:06:14 | Conectando no Banco de Dados
+2019/06/10 17:06:14 | inserindo dados na tabela
+2019/06/10 17:06:14 | Sucesso...
+2019/06/10 17:06:14 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:06:14 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:06:14 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:06:14 | Codigo de Resposta: 200
+2019/06/10 17:06:14 | Sucesso...
+2019/06/10 17:06:20 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:06:21 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:06:21 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:06:21 | Codigo de Resposta: 200
+2019/06/10 17:06:21 | Sucesso...
+2019/06/10 17:06:25 | Conectando no Banco de Dados
+2019/06/10 17:06:25 | inserindo dados na tabela
+2019/06/10 17:06:25 | Sucesso...
+2019/06/10 17:06:25 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:06:25 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:06:25 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:06:25 | Codigo de Resposta: 200
+2019/06/10 17:06:25 | Sucesso...
+2019/06/10 17:06:32 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:06:32 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:06:32 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:06:32 | Codigo de Resposta: 200
+2019/06/10 17:06:32 | Sucesso...
+2019/06/10 17:06:35 | Conectando no Banco de Dados
+2019/06/10 17:06:35 | inserindo dados na tabela
+2019/06/10 17:06:35 | Sucesso...
+2019/06/10 17:06:35 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:06:36 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:06:36 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:06:36 | Codigo de Resposta: 200
+2019/06/10 17:06:36 | Sucesso...
+2019/06/10 17:06:43 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:06:45 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:06:45 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:06:45 | Codigo de Resposta: 200
+2019/06/10 17:06:45 | Sucesso...
+2019/06/10 17:06:46 | Conectando no Banco de Dados
+2019/06/10 17:06:46 | inserindo dados na tabela
+2019/06/10 17:06:46 | Sucesso...
+2019/06/10 17:06:46 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:06:46 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:06:46 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:06:46 | Codigo de Resposta: 200
+2019/06/10 17:06:47 | Sucesso...
+2019/06/10 17:06:56 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:06:56 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:06:56 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:06:56 | Codigo de Resposta: 200
+2019/06/10 17:06:56 | Sucesso...
+2019/06/10 17:06:57 | Conectando no Banco de Dados
+2019/06/10 17:06:57 | inserindo dados na tabela
+2019/06/10 17:06:57 | Sucesso...
+2019/06/10 17:06:57 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:06:58 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:06:58 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:06:58 | Codigo de Resposta: 200
+2019/06/10 17:06:58 | Sucesso...
+2019/06/10 17:07:07 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:07:08 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:07:08 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:07:08 | Codigo de Resposta: 200
+2019/06/10 17:07:08 | Sucesso...
+2019/06/10 17:07:08 | Conectando no Banco de Dados
+2019/06/10 17:07:08 | inserindo dados na tabela
+2019/06/10 17:07:08 | Sucesso...
+2019/06/10 17:07:08 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:07:09 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:07:09 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:07:09 | Codigo de Resposta: 200
+2019/06/10 17:07:09 | Sucesso...
+2019/06/10 17:07:19 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:07:19 | Conectando no Banco de Dados
+2019/06/10 17:07:19 | inserindo dados na tabela
+2019/06/10 17:07:19 | Sucesso...
+2019/06/10 17:07:19 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:07:19 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:07:19 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:07:19 | Codigo de Resposta: 200
+2019/06/10 17:07:19 | Sucesso...
+2019/06/10 17:07:20 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:07:20 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:07:20 | Codigo de Resposta: 200
+2019/06/10 17:07:20 | Sucesso...
+2019/06/10 17:07:30 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:07:31 | Conectando no Banco de Dados
+2019/06/10 17:07:31 | inserindo dados na tabela
+2019/06/10 17:07:31 | Sucesso...
+2019/06/10 17:07:31 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:07:31 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:07:31 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:07:31 | Codigo de Resposta: 200
+2019/06/10 17:07:31 | Sucesso...
+2019/06/10 17:07:33 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:07:33 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:07:33 | Codigo de Resposta: 200
+2019/06/10 17:07:33 | Sucesso...
+2019/06/10 17:07:43 | Conectando no Banco de Dados
+2019/06/10 17:07:43 | inserindo dados na tabela
+2019/06/10 17:07:43 | Sucesso...
+2019/06/10 17:07:43 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:07:43 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:07:44 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:07:44 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:07:44 | Codigo de Resposta: 200
+2019/06/10 17:07:44 | Sucesso...
+2019/06/10 17:07:44 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:07:44 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:07:44 | Codigo de Resposta: 200
+2019/06/10 17:07:44 | Sucesso...
+2019/06/10 17:07:54 | Conectando no Banco de Dados
+2019/06/10 17:07:54 | inserindo dados na tabela
+2019/06/10 17:07:54 | Sucesso...
+2019/06/10 17:07:54 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:07:55 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:07:56 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:07:56 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:07:56 | Codigo de Resposta: 200
+2019/06/10 17:07:56 | Sucesso...
+2019/06/10 17:07:56 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:07:56 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:07:56 | Codigo de Resposta: 200
+2019/06/10 17:07:56 | Sucesso...
+2019/06/10 17:08:06 | Conectando no Banco de Dados
+2019/06/10 17:08:06 | inserindo dados na tabela
+2019/06/10 17:08:06 | Sucesso...
+2019/06/10 17:08:06 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:08:07 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:08:07 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:08:07 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:08:07 | Codigo de Resposta: 200
+2019/06/10 17:08:07 | Sucesso...
+2019/06/10 17:08:07 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:08:07 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:08:07 | Codigo de Resposta: 200
+2019/06/10 17:08:07 | Sucesso...
+2019/06/10 17:08:18 | Conectando no Banco de Dados
+2019/06/10 17:08:18 | inserindo dados na tabela
+2019/06/10 17:08:18 | Sucesso...
+2019/06/10 17:08:18 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:08:18 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:08:18 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:08:18 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:08:18 | Codigo de Resposta: 200
+2019/06/10 17:08:18 | Sucesso...
+2019/06/10 17:08:19 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:08:19 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:08:19 | Codigo de Resposta: 200
+2019/06/10 17:08:19 | Sucesso...
+2019/06/10 17:08:29 | Conectando no Banco de Dados
+2019/06/10 17:08:29 | inserindo dados na tabela
+2019/06/10 17:08:29 | Sucesso...
+2019/06/10 17:08:29 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:08:29 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:08:30 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:08:30 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:08:30 | Codigo de Resposta: 200
+2019/06/10 17:08:30 | Sucesso...
+2019/06/10 17:08:30 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:08:30 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:08:30 | Codigo de Resposta: 200
+2019/06/10 17:08:30 | Sucesso...
+2019/06/10 17:08:41 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:08:41 | Conectando no Banco de Dados
+2019/06/10 17:08:41 | inserindo dados na tabela
+2019/06/10 17:08:41 | Sucesso...
+2019/06/10 17:08:41 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:08:41 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:08:41 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:08:41 | Codigo de Resposta: 200
+2019/06/10 17:08:41 | Sucesso...
+2019/06/10 17:08:42 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:08:42 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:08:42 | Codigo de Resposta: 200
+2019/06/10 17:08:42 | Sucesso...
+2019/06/10 17:08:52 | Conectando no Banco de Dados
+2019/06/10 17:08:52 | inserindo dados na tabela
+2019/06/10 17:08:52 | Sucesso...
+2019/06/10 17:08:52 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:08:52 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:08:53 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:08:53 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:08:53 | Codigo de Resposta: 200
+2019/06/10 17:08:53 | Sucesso...
+2019/06/10 17:08:53 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:08:53 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:08:53 | Codigo de Resposta: 200
+2019/06/10 17:08:53 | Sucesso...
+2019/06/10 17:09:03 | Conectando no Banco de Dados
+2019/06/10 17:09:04 | inserindo dados na tabela
+2019/06/10 17:09:04 | Sucesso...
+2019/06/10 17:09:04 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:09:04 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:09:04 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:09:04 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:09:04 | Codigo de Resposta: 200
+2019/06/10 17:09:04 | Sucesso...
+2019/06/10 17:09:04 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:09:04 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:09:04 | Codigo de Resposta: 200
+2019/06/10 17:09:04 | Sucesso...
+2019/06/10 17:09:15 | Conectando no Banco de Dados
+2019/06/10 17:09:15 | inserindo dados na tabela
+2019/06/10 17:09:15 | Sucesso...
+2019/06/10 17:09:15 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:09:15 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:09:15 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:09:15 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:09:15 | Codigo de Resposta: 200
+2019/06/10 17:09:15 | Sucesso...
+2019/06/10 17:09:15 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:09:15 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:09:15 | Codigo de Resposta: 200
+2019/06/10 17:09:15 | Sucesso...
+2019/06/10 17:09:26 | Conectando no Banco de Dados
+2019/06/10 17:09:26 | inserindo dados na tabela
+2019/06/10 17:09:26 | Sucesso...
+2019/06/10 17:09:26 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:09:26 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:09:26 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:09:26 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:09:26 | Codigo de Resposta: 200
+2019/06/10 17:09:26 | Sucesso...
+2019/06/10 17:09:27 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:09:27 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:09:27 | Codigo de Resposta: 200
+2019/06/10 17:09:27 | Sucesso...
+2019/06/10 17:09:37 | Conectando no Banco de Dados
+2019/06/10 17:09:37 | inserindo dados na tabela
+2019/06/10 17:09:37 | Sucesso...
+2019/06/10 17:09:37 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:09:37 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:09:38 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:09:38 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:09:38 | Codigo de Resposta: 200
+2019/06/10 17:09:38 | Sucesso...
+2019/06/10 17:09:38 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:09:38 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:09:38 | Codigo de Resposta: 200
+2019/06/10 17:09:38 | Sucesso...
+2019/06/10 17:09:48 | Conectando no Banco de Dados
+2019/06/10 17:09:48 | inserindo dados na tabela
+2019/06/10 17:09:48 | Sucesso...
+2019/06/10 17:09:48 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:09:48 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:09:48 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:09:48 | Codigo de Resposta: 200
+2019/06/10 17:09:48 | Sucesso...
+2019/06/10 17:09:51 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:09:52 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:09:52 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:09:52 | Codigo de Resposta: 200
+2019/06/10 17:09:52 | Sucesso...
+2019/06/10 17:09:59 | Conectando no Banco de Dados
+2019/06/10 17:09:59 | inserindo dados na tabela
+2019/06/10 17:09:59 | Sucesso...
+2019/06/10 17:09:59 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:09:59 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:09:59 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:09:59 | Codigo de Resposta: 200
+2019/06/10 17:09:59 | Sucesso...
+2019/06/10 17:10:03 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:10:03 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:10:03 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:10:03 | Codigo de Resposta: 200
+2019/06/10 17:10:03 | Sucesso...
+2019/06/10 17:10:10 | Conectando no Banco de Dados
+2019/06/10 17:10:10 | inserindo dados na tabela
+2019/06/10 17:10:10 | Sucesso...
+2019/06/10 17:10:10 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:10:11 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:10:11 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:10:11 | Codigo de Resposta: 200
+2019/06/10 17:10:11 | Sucesso...
+2019/06/10 17:10:15 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:10:16 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:10:16 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:10:16 | Codigo de Resposta: 200
+2019/06/10 17:10:16 | Sucesso...
+2019/06/10 17:10:21 | Conectando no Banco de Dados
+2019/06/10 17:10:21 | inserindo dados na tabela
+2019/06/10 17:10:21 | Sucesso...
+2019/06/10 17:10:21 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:10:22 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:10:22 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:10:22 | Codigo de Resposta: 200
+2019/06/10 17:10:22 | Sucesso...
+2019/06/10 17:10:27 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:10:28 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:10:28 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:10:28 | Codigo de Resposta: 200
+2019/06/10 17:10:28 | Sucesso...
+2019/06/10 17:10:32 | Conectando no Banco de Dados
+2019/06/10 17:10:32 | inserindo dados na tabela
+2019/06/10 17:10:32 | Sucesso...
+2019/06/10 17:10:32 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:10:32 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:10:32 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:10:32 | Codigo de Resposta: 200
+2019/06/10 17:10:32 | Sucesso...
+2019/06/10 17:10:39 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:10:40 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:10:40 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:10:40 | Codigo de Resposta: 200
+2019/06/10 17:10:40 | Sucesso...
+2019/06/10 17:10:43 | Conectando no Banco de Dados
+2019/06/10 17:10:43 | inserindo dados na tabela
+2019/06/10 17:10:43 | Sucesso...
+2019/06/10 17:10:43 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:10:44 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:10:44 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:10:44 | Codigo de Resposta: 200
+2019/06/10 17:10:44 | Sucesso...
+2019/06/10 17:10:51 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:10:51 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:10:51 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:10:51 | Codigo de Resposta: 200
+2019/06/10 17:10:51 | Sucesso...
+2019/06/10 17:10:54 | Conectando no Banco de Dados
+2019/06/10 17:10:54 | inserindo dados na tabela
+2019/06/10 17:10:54 | Sucesso...
+2019/06/10 17:10:54 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:10:54 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:10:54 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:10:54 | Codigo de Resposta: 200
+2019/06/10 17:10:54 | Sucesso...
+2019/06/10 17:11:02 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:11:03 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:11:03 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:11:03 | Codigo de Resposta: 200
+2019/06/10 17:11:03 | Sucesso...
+2019/06/10 17:11:05 | Conectando no Banco de Dados
+2019/06/10 17:11:05 | inserindo dados na tabela
+2019/06/10 17:11:05 | Sucesso...
+2019/06/10 17:11:05 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:11:06 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:11:06 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:11:06 | Codigo de Resposta: 200
+2019/06/10 17:11:06 | Sucesso...
+2019/06/10 17:11:13 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:11:14 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:11:14 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:11:14 | Codigo de Resposta: 200
+2019/06/10 17:11:14 | Sucesso...
+2019/06/10 17:11:16 | Conectando no Banco de Dados
+2019/06/10 17:11:16 | inserindo dados na tabela
+2019/06/10 17:11:16 | Sucesso...
+2019/06/10 17:11:16 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:11:17 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:11:17 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:11:17 | Codigo de Resposta: 200
+2019/06/10 17:11:17 | Sucesso...
+2019/06/10 17:11:26 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:11:27 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:11:27 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:11:27 | Codigo de Resposta: 200
+2019/06/10 17:11:27 | Sucesso...
+2019/06/10 17:11:27 | Conectando no Banco de Dados
+2019/06/10 17:11:27 | inserindo dados na tabela
+2019/06/10 17:11:27 | Sucesso...
+2019/06/10 17:11:27 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:11:28 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:11:28 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:11:28 | Codigo de Resposta: 200
+2019/06/10 17:11:28 | Sucesso...
+2019/06/10 17:11:38 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:11:38 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:11:38 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:11:38 | Codigo de Resposta: 200
+2019/06/10 17:11:38 | Sucesso...
+2019/06/10 17:11:38 | Conectando no Banco de Dados
+2019/06/10 17:11:38 | inserindo dados na tabela
+2019/06/10 17:11:39 | Sucesso...
+2019/06/10 17:11:39 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:11:39 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:11:39 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:11:39 | Codigo de Resposta: 200
+2019/06/10 17:11:39 | Sucesso...
+2019/06/10 17:11:49 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:11:50 | Conectando no Banco de Dados
+2019/06/10 17:11:50 | inserindo dados na tabela
+2019/06/10 17:11:50 | Sucesso...
+2019/06/10 17:11:50 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:11:50 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:11:50 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:11:50 | Codigo de Resposta: 200
+2019/06/10 17:11:50 | Sucesso...
+2019/06/10 17:11:50 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:11:50 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:11:50 | Codigo de Resposta: 200
+2019/06/10 17:11:50 | Sucesso...
+2019/06/10 17:12:01 | Conectando no Banco de Dados
+2019/06/10 17:12:01 | inserindo dados na tabela
+2019/06/10 17:12:01 | Sucesso...
+2019/06/10 17:12:01 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:12:01 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:12:01 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:12:01 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:12:01 | Codigo de Resposta: 200
+2019/06/10 17:12:01 | Sucesso...
+2019/06/10 17:12:02 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:12:02 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:12:02 | Codigo de Resposta: 200
+2019/06/10 17:12:02 | Sucesso...
+2019/06/10 17:12:12 | Conectando no Banco de Dados
+2019/06/10 17:12:12 | inserindo dados na tabela
+2019/06/10 17:12:12 | Sucesso...
+2019/06/10 17:12:12 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:12:12 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:12:12 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:12:12 | Codigo de Resposta: 200
+2019/06/10 17:12:12 | Sucesso...
+2019/06/10 17:12:13 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:12:14 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:12:14 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:12:14 | Codigo de Resposta: 200
+2019/06/10 17:12:14 | Sucesso...
+2019/06/10 17:12:23 | Conectando no Banco de Dados
+2019/06/10 17:12:23 | inserindo dados na tabela
+2019/06/10 17:12:23 | Sucesso...
+2019/06/10 17:12:23 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:12:23 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:12:23 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:12:23 | Codigo de Resposta: 200
+2019/06/10 17:12:23 | Sucesso...
+2019/06/10 17:12:26 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:12:26 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:12:26 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:12:26 | Codigo de Resposta: 200
+2019/06/10 17:12:26 | Sucesso...
+2019/06/10 17:12:34 | Conectando no Banco de Dados
+2019/06/10 17:12:34 | inserindo dados na tabela
+2019/06/10 17:12:34 | Sucesso...
+2019/06/10 17:12:34 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:12:34 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:12:34 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:12:34 | Codigo de Resposta: 200
+2019/06/10 17:12:34 | Sucesso...
+2019/06/10 17:12:37 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:12:37 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:12:37 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:12:37 | Codigo de Resposta: 200
+2019/06/10 17:12:37 | Sucesso...
+2019/06/10 17:12:45 | Conectando no Banco de Dados
+2019/06/10 17:12:45 | inserindo dados na tabela
+2019/06/10 17:12:46 | Sucesso...
+2019/06/10 17:12:46 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:12:46 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:12:46 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:12:46 | Codigo de Resposta: 200
+2019/06/10 17:12:46 | Sucesso...
+2019/06/10 17:12:47 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:12:47 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:12:47 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:12:47 | Codigo de Resposta: 200
+2019/06/10 17:12:47 | Sucesso...
+2019/06/10 17:12:57 | Conectando no Banco de Dados
+2019/06/10 17:12:57 | inserindo dados na tabela
+2019/06/10 17:12:57 | Sucesso...
+2019/06/10 17:12:57 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:12:57 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:12:58 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:12:58 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:12:58 | Codigo de Resposta: 200
+2019/06/10 17:12:58 | Sucesso...
+2019/06/10 17:12:58 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:12:58 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:12:58 | Codigo de Resposta: 200
+2019/06/10 17:12:58 | Sucesso...
+2019/06/10 17:13:09 | Conectando no Banco de Dados
+2019/06/10 17:13:09 | inserindo dados na tabela
+2019/06/10 17:13:09 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:13:09 | Sucesso...
+2019/06/10 17:13:09 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:13:09 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:13:09 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:13:09 | Codigo de Resposta: 200
+2019/06/10 17:13:09 | Sucesso...
+2019/06/10 17:13:09 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:13:09 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:13:09 | Codigo de Resposta: 200
+2019/06/10 17:13:10 | Sucesso...
+2019/06/10 17:13:20 | Conectando no Banco de Dados
+2019/06/10 17:13:20 | inserindo dados na tabela
+2019/06/10 17:13:20 | Sucesso...
+2019/06/10 17:13:20 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:13:20 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:13:20 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:13:20 | Codigo de Resposta: 200
+2019/06/10 17:13:20 | Sucesso...
+2019/06/10 17:13:20 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:13:21 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:13:21 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:13:21 | Codigo de Resposta: 200
+2019/06/10 17:13:21 | Sucesso...
+2019/06/10 17:13:31 | Conectando no Banco de Dados
+2019/06/10 17:13:31 | inserindo dados na tabela
+2019/06/10 17:13:31 | Sucesso...
+2019/06/10 17:13:31 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:13:31 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:13:32 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:13:32 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:13:32 | Codigo de Resposta: 200
+2019/06/10 17:13:32 | Sucesso...
+2019/06/10 17:13:32 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:13:32 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:13:32 | Codigo de Resposta: 200
+2019/06/10 17:13:32 | Sucesso...
+2019/06/10 17:13:43 | Conectando no Banco de Dados
+2019/06/10 17:13:43 | inserindo dados na tabela
+2019/06/10 17:13:43 | Sucesso...
+2019/06/10 17:13:43 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:13:43 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:13:43 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:13:43 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:13:43 | Codigo de Resposta: 200
+2019/06/10 17:13:43 | Sucesso...
+2019/06/10 17:13:44 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:13:44 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:13:44 | Codigo de Resposta: 200
+2019/06/10 17:13:44 | Sucesso...
+2019/06/10 17:13:53 | Conectando no Banco de Dados
+2019/06/10 17:13:53 | inserindo dados na tabela
+2019/06/10 17:13:53 | Sucesso...
+2019/06/10 17:13:53 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:13:54 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:13:54 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:13:54 | Codigo de Resposta: 200
+2019/06/10 17:13:54 | Sucesso...
+2019/06/10 17:13:55 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:13:55 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:13:55 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:13:55 | Codigo de Resposta: 200
+2019/06/10 17:13:55 | Sucesso...
+2019/06/10 17:14:05 | Conectando no Banco de Dados
+2019/06/10 17:14:05 | inserindo dados na tabela
+2019/06/10 17:14:05 | Sucesso...
+2019/06/10 17:14:05 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:14:05 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:14:05 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:14:05 | Codigo de Resposta: 200
+2019/06/10 17:14:05 | Sucesso...
+2019/06/10 17:14:05 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:14:06 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:14:06 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:14:06 | Codigo de Resposta: 200
+2019/06/10 17:14:06 | Sucesso...
+2019/06/10 17:14:16 | Conectando no Banco de Dados
+2019/06/10 17:14:16 | inserindo dados na tabela
+2019/06/10 17:14:16 | Sucesso...
+2019/06/10 17:14:16 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:14:16 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:14:17 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:14:17 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:14:17 | Codigo de Resposta: 200
+2019/06/10 17:14:17 | Sucesso...
+2019/06/10 17:14:17 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:14:17 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:14:17 | Codigo de Resposta: 200
+2019/06/10 17:14:17 | Sucesso...
+2019/06/10 17:14:27 | Conectando no Banco de Dados
+2019/06/10 17:14:27 | inserindo dados na tabela
+2019/06/10 17:14:27 | Sucesso...
+2019/06/10 17:14:27 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:14:27 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:14:27 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:14:27 | Codigo de Resposta: 200
+2019/06/10 17:14:27 | Sucesso...
+2019/06/10 17:14:27 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:14:28 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:14:28 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:14:28 | Codigo de Resposta: 200
+2019/06/10 17:14:28 | Sucesso...
+2019/06/10 17:14:38 | Conectando no Banco de Dados
+2019/06/10 17:14:38 | inserindo dados na tabela
+2019/06/10 17:14:38 | Sucesso...
+2019/06/10 17:14:38 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:14:38 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:14:39 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:14:39 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:14:39 | Codigo de Resposta: 200
+2019/06/10 17:14:39 | Sucesso...
+2019/06/10 17:14:39 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:14:39 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:14:39 | Codigo de Resposta: 200
+2019/06/10 17:14:39 | Sucesso...
+2019/06/10 17:14:50 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:14:50 | Conectando no Banco de Dados
+2019/06/10 17:14:50 | inserindo dados na tabela
+2019/06/10 17:14:50 | Sucesso...
+2019/06/10 17:14:50 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:14:51 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:14:51 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:14:51 | Codigo de Resposta: 200
+2019/06/10 17:14:51 | Sucesso...
+2019/06/10 17:14:51 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:14:51 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:14:51 | Codigo de Resposta: 200
+2019/06/10 17:14:51 | Sucesso...
+2019/06/10 17:15:02 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:15:02 | Conectando no Banco de Dados
+2019/06/10 17:15:02 | inserindo dados na tabela
+2019/06/10 17:15:02 | Sucesso...
+2019/06/10 17:15:02 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:15:02 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:15:02 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:15:02 | Codigo de Resposta: 200
+2019/06/10 17:15:02 | Sucesso...
+2019/06/10 17:15:02 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:15:02 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:15:02 | Codigo de Resposta: 200
+2019/06/10 17:15:02 | Sucesso...
+2019/06/10 17:15:13 | Conectando no Banco de Dados
+2019/06/10 17:15:13 | inserindo dados na tabela
+2019/06/10 17:15:13 | Sucesso...
+2019/06/10 17:15:13 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:15:13 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:15:13 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:15:13 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:15:13 | Codigo de Resposta: 200
+2019/06/10 17:15:13 | Sucesso...
+2019/06/10 17:15:14 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:15:14 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:15:14 | Codigo de Resposta: 200
+2019/06/10 17:15:14 | Sucesso...
+2019/06/10 17:15:24 | Conectando no Banco de Dados
+2019/06/10 17:15:24 | inserindo dados na tabela
+2019/06/10 17:15:24 | Sucesso...
+2019/06/10 17:15:24 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:15:25 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:15:25 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:15:25 | Codigo de Resposta: 200
+2019/06/10 17:15:25 | Sucesso...
+2019/06/10 17:15:26 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:15:27 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:15:27 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:15:27 | Codigo de Resposta: 200
+2019/06/10 17:15:27 | Sucesso...
+2019/06/10 17:15:35 | Conectando no Banco de Dados
+2019/06/10 17:15:35 | inserindo dados na tabela
+2019/06/10 17:15:35 | Sucesso...
+2019/06/10 17:15:35 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:15:36 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:15:36 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:15:36 | Codigo de Resposta: 200
+2019/06/10 17:15:36 | Sucesso...
+2019/06/10 17:15:38 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:15:38 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:15:38 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:15:38 | Codigo de Resposta: 200
+2019/06/10 17:15:38 | Sucesso...
+2019/06/10 17:15:46 | Conectando no Banco de Dados
+2019/06/10 17:15:46 | inserindo dados na tabela
+2019/06/10 17:15:46 | Sucesso...
+2019/06/10 17:15:46 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:15:47 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:15:47 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:15:47 | Codigo de Resposta: 200
+2019/06/10 17:15:47 | Sucesso...
+2019/06/10 17:15:49 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:15:50 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:15:50 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:15:50 | Codigo de Resposta: 200
+2019/06/10 17:15:50 | Sucesso...
+2019/06/10 17:15:57 | Conectando no Banco de Dados
+2019/06/10 17:15:57 | inserindo dados na tabela
+2019/06/10 17:15:57 | Sucesso...
+2019/06/10 17:15:57 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:15:58 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:15:58 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:15:58 | Codigo de Resposta: 200
+2019/06/10 17:15:58 | Sucesso...
+2019/06/10 17:16:01 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:16:01 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:16:01 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:16:01 | Codigo de Resposta: 200
+2019/06/10 17:16:01 | Sucesso...
+2019/06/10 17:16:09 | Conectando no Banco de Dados
+2019/06/10 17:16:09 | inserindo dados na tabela
+2019/06/10 17:16:09 | Sucesso...
+2019/06/10 17:16:09 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:16:09 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:16:09 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:16:09 | Codigo de Resposta: 200
+2019/06/10 17:16:09 | Sucesso...
+2019/06/10 17:16:12 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:16:13 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:16:13 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:16:13 | Codigo de Resposta: 200
+2019/06/10 17:16:13 | Sucesso...
+2019/06/10 17:16:19 | Conectando no Banco de Dados
+2019/06/10 17:16:19 | inserindo dados na tabela
+2019/06/10 17:16:19 | Sucesso...
+2019/06/10 17:16:19 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:16:20 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:16:20 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:16:20 | Codigo de Resposta: 200
+2019/06/10 17:16:20 | Sucesso...
+2019/06/10 17:16:24 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:16:25 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:16:25 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:16:25 | Codigo de Resposta: 200
+2019/06/10 17:16:25 | Sucesso...
+2019/06/10 17:16:30 | Conectando no Banco de Dados
+2019/06/10 17:16:30 | inserindo dados na tabela
+2019/06/10 17:16:30 | Sucesso...
+2019/06/10 17:16:30 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:16:31 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:16:31 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:16:31 | Codigo de Resposta: 200
+2019/06/10 17:16:31 | Sucesso...
+2019/06/10 17:16:36 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:16:37 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:16:37 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:16:37 | Codigo de Resposta: 200
+2019/06/10 17:16:37 | Sucesso...
+2019/06/10 17:16:42 | Conectando no Banco de Dados
+2019/06/10 17:16:42 | inserindo dados na tabela
+2019/06/10 17:16:42 | Sucesso...
+2019/06/10 17:16:42 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:16:42 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:16:42 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:16:42 | Codigo de Resposta: 200
+2019/06/10 17:16:42 | Sucesso...
+2019/06/10 17:16:51 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:16:51 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:16:51 | Parametros do POST: {"text":"Uso da Cpu Acima Do Permitido"}
+2019/06/10 17:16:51 | Codigo de Resposta: 200
+2019/06/10 17:16:51 | Sucesso...
+2019/06/10 17:16:53 | Conectando no Banco de Dados
+2019/06/10 17:16:53 | inserindo dados na tabela
+2019/06/10 17:16:53 | Sucesso...
+2019/06/10 17:16:53 | Iniciando envio de menssagem para o Slack
+2019/06/10 17:16:53 | Mandando 'POST' para a Url: https://hooks.slack.com/services/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
+2019/06/10 17:16:53 | Parametros do POST: {"text":"Novos dados inseridos na tabela registro"}
+2019/06/10 17:16:53 | Codigo de Resposta: 200
+2019/06/10 17:16:53 | Sucesso...

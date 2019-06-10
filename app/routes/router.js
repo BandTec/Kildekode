@@ -107,6 +107,9 @@ router.get("/login", (req, res) => {
 router.get("/register", (req, res) => {
   res.redirect("/auth/register");
 });
+router.get("/latLong", (req,res) => {
+  res.redirect("/auth/latLong");
+});
 
 router.get("/dados", (req, res) => {
   res.redirect("/auth/dados");

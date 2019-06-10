@@ -15,6 +15,20 @@ router.get('/cadEndereco', (req, res) => {
     res.render('auth/cadEndereco');
 })
 
+router.get('/latLong', async (req,res) => {
+    const client = await pool.connect()
+    try{
+    let resultados =  await client.query(`select lat, lng from endereco where idendereco = 16`);
+    resultados = resultados.rows;
+    console.log(resultados);
+    
+
+    res.json(resultados);
+    }finally{
+        client.release();
+    }
+})
+
 router.post('/cadEndereco', async (req, res) =>{
     let cep = req.body.cep
     let bairro = req.body.bairro

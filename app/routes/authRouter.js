@@ -18,10 +18,9 @@ router.get('/cadEndereco', (req, res) => {
 router.get('/latLong', async (req,res) => {
     const client = await pool.connect()
     try{
-    let resultados =  await client.query(`select lat, lng from endereco where idendereco = 16`);
+    let resultados =  await client.query(`select lat, lng from endereco where idendereco in(16,17,18,19,20)`);
     resultados = resultados.rows;
     console.log(resultados);
-    
 
     res.json(resultados);
     }finally{
